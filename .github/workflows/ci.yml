@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ karaage ]
+    branches: [ main ]
   pull_request:
-    branches: [ karaage ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
