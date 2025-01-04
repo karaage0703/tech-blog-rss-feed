@@ -1,7 +1,7 @@
 # <img src="src/site/images/icon-transparent.png" height=26> AI情報RSS
 AI関係情報の更新をまとめたRSSフィードを配信しています。  
 
-[https://yamadashy.github.io/tech-blog-rss-feed/](https://karaage0703.github.io/tech-blog-rss-feed/)
+[https://karaage0703.github.io/tech-blog-rss-feed/](https://karaage0703.github.io/tech-blog-rss-feed/)
 
 [yamadashyさんのtech-blog-rss-feedリポジトリ](https://github.com/yamadashy/tech-blog-rss-feed)をフォークして作成いたしました。
 
