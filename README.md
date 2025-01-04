@@ -4,7 +4,7 @@
 
 https://yamadashy.github.io/tech-blog-rss-feed/
 
-
+ 
 独自のフィードを作って公開したい場合は自由にフォークしてください。
 
 ## サイト追加の方針
