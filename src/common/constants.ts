@@ -5,13 +5,13 @@ export default {
   // サイト設定
   siteUrl: `${siteUrl}`,
   siteUrlStem: siteUrlStem,
-  siteTitle: '企業テックブログRSS',
+  siteTitle: 'AI情報RSS',
   siteDescription:
-    '企業のテックブログの更新をまとめたRSSフィードを配信しています。記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。',
+    'AI情報の更新をまとめたRSSフィードを配信しています。',
 
   // フィード設定
-  feedTitle: '企業テックブログRSS',
-  feedDescription: '企業のテックブログの更新をまとめたRSSフィード',
+  feedTitle: 'AI情報RSS',
+  feedDescription: 'AI情報の更新をまとめたRSSフィード',
   feedLanguage: 'ja',
   feedCopyright: 'karaage0703/tech-blog-rss-feed',
   feedGenerator: 'karaage0703/tech-blog-rss-feed',
