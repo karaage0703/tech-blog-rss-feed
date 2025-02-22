@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://karaage0703.github.io/tech-blog-rss-feed/</id>
+    <title>AI情報RSS</title>
+    <updated>2025-02-22T15:07:57.469Z</updated>
+    <generator>karaage0703/tech-blog-rss-feed</generator>
+    <link rel="alternate" href="https://karaage0703.github.io/tech-blog-rss-feed/"/>
+    <link rel="self" href="https://karaage0703.github.io/tech-blog-rss-feed/feeds/atom.xml"/>
+    <subtitle>AI情報の更新をまとめたRSSフィード</subtitle>
+    <logo>https://karaage0703.github.io/tech-blog-rss-feed/images/icon.png</logo>
+    <icon>https://karaage0703.github.io/tech-blog-rss-feed/images/favicon.ico</icon>
+    <rights>karaage0703/tech-blog-rss-feed</rights>
+    <entry>
+        <title type="html"><![CDATA[競馬全然知らないけどChatGPT任せで1万円賭けてみた　「deep research」代を取り返せるか【計画編】 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/22/news089.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/22/news089.html"/>
+        <updated>2025-02-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT Proが高すぎるのでどうにか取り返せないかやってみた。]]></summary>
+        <content type="html"><![CDATA[ChatGPT Proが高すぎるのでどうにか取り返せないかやってみた。]]></content>
+        <published>2025-02-22T09:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno で RooCode 用にローカルMCPサーバーをさっと作る | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/mizchi/articles/deno-mcp-server</id>
+        <link href="https://zenn.dev/mizchi/articles/deno-mcp-server"/>
+        <updated>2025-02-22T06:21:22.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと外部MCPではなく、その場でサクッと書いた deno スクリプト書いて使わせたい。ローカル MCP は 標準入出力でJSONを喋るだけで作れるでもテストするのが面倒なので、インメモリでテストしておきたいこれらを、Roo Code でいつでもできるように、手順を整理しておきます。TODO: 本家 Cline のやり方はあとで確認 知っておくべきことCline/Roo/ClaudeDesk]]></summary>
+        <content type="html"><![CDATA[やりたいこと外部MCPではなく、その場でサクッと書いた deno スクリプト書いて使わせたい。ローカル MCP は 標準入出力でJSONを喋るだけで作れるでもテストするのが面倒なので、インメモリでテストしておきたいこれらを、Roo Code でいつでもできるように、手順を整理しておきます。TODO: 本家 Cline のやり方はあとで確認 知っておくべきことCline/Roo/ClaudeDesktop はアプリケーション起動時に設定を読み、mcpServer のプロセスを起動して握る明示的にリロードさせないと反映されない(面倒くさい) 簡単なMCPサー...]]></content>
+        <author>
+            <name>mizchi</name>
+        </author>
+        <published>2025-02-22T06:21:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【効率10倍UPテク】utihubとNotebookLMを組み合わせると、Githubのソースコードの学習が超捗る話 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/aimasaou/articles/77fa305c0e4c93</id>
+        <link href="https://zenn.dev/aimasaou/articles/77fa305c0e4c93"/>
+        <updated>2025-02-22T03:20:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにGitHubのリポジトリに含まれるコードやドキュメントを、"まるごとAIに読んでもらって理解を深めたい"というニーズは多いですよね。ただ、リポジトリが複数ファイルから成り立っていると、1つひとつを手動でコピー＆ペーストするのは非常に面倒です。そんなときに活躍するのが、uithub というサイトです。GitHubのURLの一部を“ちょっと変えるだけ”で、Markdown形式のツリーテキストを]]></summary>
+        <content type="html"><![CDATA[はじめにGitHubのリポジトリに含まれるコードやドキュメントを、"まるごとAIに読んでもらって理解を深めたい"というニーズは多いですよね。ただ、リポジトリが複数ファイルから成り立っていると、1つひとつを手動でコピー＆ペーストするのは非常に面倒です。そんなときに活躍するのが、uithub というサイトです。GitHubのURLの一部を“ちょっと変えるだけ”で、Markdown形式のツリーテキストをサクッと生成してくれます。そして、生成したテキストをNotebookLMに読み込ませると、ソースコードの全体像をつかみながらQ&amp;amp;Aを行うことができ、しかもハルシネーション（誤...]]></content>
+        <author>
+            <name>まさお@AI駆動開発の鬼</name>
+        </author>
+        <published>2025-02-22T03:20:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10分で動かすローカルLLM（Mac×Docker×Ollama×DeepSeek編） | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/s_hirano_ist/articles/7dcfeac4086b51</id>
+        <link href="https://zenn.dev/s_hirano_ist/articles/7dcfeac4086b51"/>
+        <updated>2025-02-22T03:05:41.000Z</updated>
+        <summary type="html"><![CDATA[ただのフロントエンドエンジニアがDeepSeekをMacで動かした備忘録です。なお、各手順は公式READMEを参考にしております。!※ Mac×Dockerの環境だとGPUを利用できていないため、推論は遅いです。運用は別の方法をお勧めします。 実行環境Mac mini M4チップ 32GBメモリmacOS Sequoia 15.3.1 環境構築事前準備Docker Desktopのインストールト起]]></summary>
+        <content type="html"><![CDATA[ただのフロントエンドエンジニアがDeepSeekをMacで動かした備忘録です。なお、各手順は公式READMEを参考にしております。!※ Mac×Dockerの環境だとGPUを利用できていないため、推論は遅いです。運用は別の方法をお勧めします。 実行環境Mac mini M4チップ 32GBメモリmacOS Sequoia 15.3.1 環境構築事前準備Docker Desktopのインストールト起動設定で、Resource AllocationのMemory Limitを大きめの値に変更（本検証では24GBにしました）Ollamaの環境構築...]]></content>
+        <author>
+            <name>Sola</name>
+        </author>
+        <published>2025-02-22T03:05:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quailyの技術アーキテクチャ解説 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/lyric/articles/0f40151f38017c</id>
+        <link href="https://zenn.dev/lyric/articles/0f40151f38017c"/>
+        <updated>2025-02-22T03:00:13.000Z</updated>
+        <summary type="html"><![CDATA[source post今日はQuailyの技術アーキテクチャを解説していきましょう。まずは、いくつかの原則を定めます：ベンダーロックインを避ける——Cloudflareにロックインされることも含めて。いつでも Linux ベアメタルに移行できるようにします。依存関係は可能な限り減らす。新しい技術は必要でなければ学ばない。要件を満たせるなら装飾はしない。パフォーマンスが最も重要なシーンでのみ実行効率]]></summary>
+        <content type="html"><![CDATA[source post今日はQuailyの技術アーキテクチャを解説していきましょう。まずは、いくつかの原則を定めます：ベンダーロックインを避ける——Cloudflareにロックインされることも含めて。いつでも Linux ベアメタルに移行できるようにします。依存関係は可能な限り減らす。新しい技術は必要でなければ学ばない。要件を満たせるなら装飾はしない。パフォーマンスが最も重要なシーンでのみ実行効率を考慮する。はい、これで。では始めましょう。 ルーティングquaily.comを開くと Quaily のホームページが表示されます。これは Cloudflare 上にデ...]]></content>
+        <author>
+            <name>Lyricのブログ</name>
+        </author>
+        <published>2025-02-22T03:00:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIソムリエ」が日本酒を提案、ブロックチェーン技術でお酒の「開封場所」を追跡……酒造DXの“最先端” | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2502/22/news005.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2502/22/news005.html"/>
+        <updated>2025-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[長い歴史を持つ「日本酒」。テクノロジーとは縁遠いイメージがあるかもしれませんが、近年酒造業界でもDXを活用して、業務負担の軽減や商品価値の向上に取り組む例が増えてきています。]]></summary>
+        <content type="html"><![CDATA[長い歴史を持つ「日本酒」。テクノロジーとは縁遠いイメージがあるかもしれませんが、近年酒造業界でもDXを活用して、業務負担の軽減や商品価値の向上に取り組む例が増えてきています。]]></content>
+        <published>2025-02-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「妊娠周産期における女性の脳の変化のマッピング」研究の詳細 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/programing_gym/articles/700ea3cf5e2723</id>
+        <link href="https://zenn.dev/programing_gym/articles/700ea3cf5e2723"/>
+        <updated>2025-02-21T23:56:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.nature.com/articles/d41591-024-00007-3 「妊娠周産期における女性の脳の変化のマッピング」研究の詳細概要：「妊娠周産期における女性の脳の変化のマッピング（Mapping Peripartum Brain Changes in Women）」は、妊娠前から産後にかけての脳の構造的・機能的な変化を詳しく調査した研究です。本研究は、妊娠と母性が]]></summary>
+        <content type="html"><![CDATA[https://www.nature.com/articles/d41591-024-00007-3 「妊娠周産期における女性の脳の変化のマッピング」研究の詳細概要：「妊娠周産期における女性の脳の変化のマッピング（Mapping Peripartum Brain Changes in Women）」は、妊娠前から産後にかけての脳の構造的・機能的な変化を詳しく調査した研究です。本研究は、妊娠と母性が脳に与える影響を解明し、母親の精神的健康や育児に関わる適応能力の理解を深めることを目的としています。 研究の目的本研究は、妊娠前から産後2年までの間に女性の脳がどのように変化...]]></content>
+        <author>
+            <name>脳科学なら俺に聞け（中野哲平)更新中！</name>
+        </author>
+        <published>2025-02-21T23:56:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独学プログラマー vs 大学プログラマー：それぞれの学び方のメリット・デメリットを徹底比較 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/programing_gym/articles/a8ff6c69b2db31</id>
+        <link href="https://zenn.dev/programing_gym/articles/a8ff6c69b2db31"/>
+        <updated>2025-02-21T23:50:35.000Z</updated>
+        <summary type="html"><![CDATA[プログラミングを学ぶ方法は数多くありますが、大きく分けると「独学で学ぶ人」と「大学で学ぶ人」に分類できます。それぞれの学び方には固有のメリットとデメリットが存在し、目指すキャリアや学習スタイルによって最適な選択肢が変わってきます。本記事では、独学と大学でのプログラミング学習を様々な観点から比較し、それぞれの違いと特徴を深掘りしていきます。 1. 学習環境の違い 独学の学習環境独学でプログラミングを]]></summary>
+        <content type="html"><![CDATA[プログラミングを学ぶ方法は数多くありますが、大きく分けると「独学で学ぶ人」と「大学で学ぶ人」に分類できます。それぞれの学び方には固有のメリットとデメリットが存在し、目指すキャリアや学習スタイルによって最適な選択肢が変わってきます。本記事では、独学と大学でのプログラミング学習を様々な観点から比較し、それぞれの違いと特徴を深掘りしていきます。 1. 学習環境の違い 独学の学習環境独学でプログラミングを学ぶ場合、学習環境は自分次第です。オンラインのチュートリアル、YouTube動画、書籍、プログラミングスクールなど、学びの手段は多岐にわたります。学習場所や時間も自由に選べるため...]]></content>
+        <author>
+            <name>脳科学なら俺に聞け（中野哲平)更新中！</name>
+        </author>
+        <published>2025-02-21T23:50:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolt.newでWebアプリケーションを サクッと作ってみよう！ | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/kouji_sawayama/books/7ddba4276967f1</id>
+        <link href="https://zenn.dev/kouji_sawayama/books/7ddba4276967f1"/>
+        <updated>2025-02-21T16:06:40.000Z</updated>
+        <summary type="html"><![CDATA[このハンズオンでは、Boltnew を使用して自然言語で Webアプリを作成し、StackBlitz でコードを修正、Boltnew に戻してデプロイ する流れを学びます。2025/02/25(火) 19:55 ～ 21:30]]></summary>
+        <content type="html"><![CDATA[このハンズオンでは、Boltnew を使用して自然言語で Webアプリを作成し、StackBlitz でコードを修正、Boltnew に戻してデプロイ する流れを学びます。2025/02/25(火) 19:55 ～ 21:30]]></content>
+        <author>
+            <name>sawayamakouji</name>
+        </author>
+        <published>2025-02-21T16:06:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業のDXのこれからの大きな流れ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/aquasealpup/articles/future-of-corporate-dx</id>
+        <link href="https://zenn.dev/aquasealpup/articles/future-of-corporate-dx"/>
+        <updated>2025-02-21T15:53:07.000Z</updated>
+        <summary type="html"><![CDATA[分析力を武器とする企業2022年ぐらいまでは、「分析力を武器とする企業」の考え方がDXの中核であったのではないかと思う。データという無限の鉱脈を掘り起こし、その中から知見を得ることで、企業は新たな価値を創造してきた。例えば、小売業界では、顧客の購買履歴を分析することで、次の消費トレンドを予測し、在庫管理や販売戦略を最適化している企業もある。このように、データ活用と分析力は、企業にとってまさに「知の]]></summary>
+        <content type="html"><![CDATA[分析力を武器とする企業2022年ぐらいまでは、「分析力を武器とする企業」の考え方がDXの中核であったのではないかと思う。データという無限の鉱脈を掘り起こし、その中から知見を得ることで、企業は新たな価値を創造してきた。例えば、小売業界では、顧客の購買履歴を分析することで、次の消費トレンドを予測し、在庫管理や販売戦略を最適化している企業もある。このように、データ活用と分析力は、企業にとってまさに「知の武器」となり、経営の武器となるという風に考えられていた。企業活動をデータとして記録し、データを活用することが先進的な企業であるという風潮であった。 人類の機能をAIに置き換える作業2...]]></content>
+        <author>
+            <name>AquaSealPup</name>
+        </author>
+        <published>2025-02-21T15:53:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[tips] そのLLM 精度上げないといけないの？ | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/akazah/articles/3a5d7ce12f73ec</id>
+        <link href="https://zenn.dev/akazah/articles/3a5d7ce12f73ec"/>
+        <updated>2025-02-21T12:07:08.000Z</updated>
+        <summary type="html"><![CDATA[LLMやRAGのチューニング、たいへんですよねチューニングじゃない方法で解決することもあります、って話です要求によってはとても効果があることも 要求会議のストレスの可視化 実装A①各発言における感情をLLMで分析②分析結果を表示 実装B①各発言における感情をLLMで分析②分析結果を「緊張度」にLLMで変換③緑から赤の色で表現Aはたいへんそう。人間でも発言から感情を言葉で表現するってたいへんBのよう]]></summary>
+        <content type="html"><![CDATA[LLMやRAGのチューニング、たいへんですよねチューニングじゃない方法で解決することもあります、って話です要求によってはとても効果があることも 要求会議のストレスの可視化 実装A①各発言における感情をLLMで分析②分析結果を表示 実装B①各発言における感情をLLMで分析②分析結果を「緊張度」にLLMで変換③緑から赤の色で表現Aはたいへんそう。人間でも発言から感情を言葉で表現するってたいへんBのようにすると、①が多少間違っていても、つまり、「いらつき」とすべきところが、「焦り」になろうが、緑から赤に近づくことには変わりないので、ストレスの可視化という要求...]]></content>
+        <author>
+            <name>akazah</name>
+        </author>
+        <published>2025-02-21T12:07:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[tips] そのLLM 精度上げないといけないの？ | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/akazah/articles/3a5d7ce12f73ec</id>
+        <link href="https://zenn.dev/akazah/articles/3a5d7ce12f73ec"/>
+        <updated>2025-02-21T12:07:08.000Z</updated>
+        <summary type="html"><![CDATA[LLMやRAGのチューニング、たいへんですよねチューニングじゃない方法で解決することもあります、って話です要求によってはとても効果があることも 要求会議のストレスの可視化 実装A①各発言における感情をLLMで分析②分析結果を表示 実装B①各発言における感情をLLMで分析②分析結果を「緊張度」にLLMで変換③緑から赤の色で表現Aはたいへんそう。人間でも発言から感情を言葉で表現するってたいへんBのよう]]></summary>
+        <content type="html"><![CDATA[LLMやRAGのチューニング、たいへんですよねチューニングじゃない方法で解決することもあります、って話です要求によってはとても効果があることも 要求会議のストレスの可視化 実装A①各発言における感情をLLMで分析②分析結果を表示 実装B①各発言における感情をLLMで分析②分析結果を「緊張度」にLLMで変換③緑から赤の色で表現Aはたいへんそう。人間でも発言から感情を言葉で表現するってたいへんBのようにすると、①が多少間違っていても、つまり、「いらつき」とすべきところが、「焦り」になろうが、緑から赤に近づくことには変わりないので、ストレスの可視化という要求...]]></content>
+        <author>
+            <name>akazah</name>
+        </author>
+        <published>2025-02-21T12:07:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社内向けにDevinクイックスタートガイドを作った話 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/tacoms/articles/efeb008ce810f3</id>
+        <link href="https://zenn.dev/tacoms/articles/efeb008ce810f3"/>
+        <updated>2025-02-21T11:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Devin話題ですよね！弊社でもつい先日から契約開始しました！既に社内でガンガン利用されてる他社様での事例を拝見していると、難しいタスクになると中々うまくいかないようなお話も耳にしつつ、その会社独自で活用パターンを見つけられてるように感じました。なので、活用パターンを丁寧に調べてからチームに渡すのではなく、クイックに展開した上で社内メンバーにDevinを活用してもらって、会社独自の利用パターンを探]]></summary>
+        <content type="html"><![CDATA[Devin話題ですよね！弊社でもつい先日から契約開始しました！既に社内でガンガン利用されてる他社様での事例を拝見していると、難しいタスクになると中々うまくいかないようなお話も耳にしつつ、その会社独自で活用パターンを見つけられてるように感じました。なので、活用パターンを丁寧に調べてからチームに渡すのではなく、クイックに展開した上で社内メンバーにDevinを活用してもらって、会社独自の利用パターンを探るのが良いなという考えに至りました。早く使ってもらいたいと思いつつ、導入しました！使ってください！だと使い方のハードルがあったり、セキュリティやコスト面での懸念があったので、最低限担保した...]]></content>
+        <author>
+            <name>Masato Inoue @ tacoms CTO</name>
+        </author>
+        <published>2025-02-21T11:02:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社内向けにDevinクイックスタートガイドを作った話 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/masatoinoue/articles/efeb008ce810f3</id>
+        <link href="https://zenn.dev/masatoinoue/articles/efeb008ce810f3"/>
+        <updated>2025-02-21T11:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Devin話題ですよね！弊社でもつい先日から契約開始しました！既に社内でガンガン利用されてる他社様での事例を拝見していると、難しいタスクになると中々うまくいかないようなお話も耳にしつつ、その会社独自で活用パターンを見つけられてるように感じました。なので、活用パターンを丁寧に調べてからチームに渡すのではなく、クイックに展開した上で社内メンバーにDevinを活用してもらって、会社独自の利用パターンを探]]></summary>
+        <content type="html"><![CDATA[Devin話題ですよね！弊社でもつい先日から契約開始しました！既に社内でガンガン利用されてる他社様での事例を拝見していると、難しいタスクになると中々うまくいかないようなお話も耳にしつつ、その会社独自で活用パターンを見つけられてるように感じました。なので、活用パターンを丁寧に調べてからチームに渡すのではなく、クイックに展開した上で社内メンバーにDevinを活用してもらって、会社独自の利用パターンを探るのが良いなという考えに至りました。早く使ってもらいたいと思いつつ、導入しました！使ってください！だと使い方のハードルがあったり、セキュリティやコスト面での懸念があったので、最低限担保した...]]></content>
+        <author>
+            <name>Masato Inoue @ tacoms CTO</name>
+        </author>
+        <published>2025-02-21T11:02:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【動画】200の骨と1000本の人工筋肉で動く人体模倣ロボ「Protoclone V1」 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/21/4137.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/21/4137.html"/>
+        <updated>2025-02-21T10:02:38.000Z</updated>
+        <summary type="html"><![CDATA[ポーランドのロボット開発ベンチャーClone Roboticsは、世界初をうたう二足歩行筋骨格アンドロイド「Protoclone V1」の動画を公開しました。]]></summary>
+        <content type="html"><![CDATA[ポーランドのロボット開発ベンチャーClone Roboticsは、世界初をうたう二足歩行筋骨格アンドロイド「Protoclone V1」の動画を公開しました。]]></content>
+        <published>2025-02-21T10:02:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャラクタ研究動向１：最近の研究動向で未来を覗く　いつのまにか推しキャラと会話できる時代が来ていた！? | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/e32c4369f9cb87</id>
+        <link href="https://zenn.dev/headwaters/articles/e32c4369f9cb87"/>
+        <updated>2025-02-21T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに大規模言語モデルが発明されたことによって、「機械」と会話ができるようになりました。ファインチューニングやRAGの技術も進み、物語のキャラクターになりきって会話を楽しみたいというニーズにもこたえられるようになりました。実際様々なチャットアプリやサービスはありますが、今回は学術研究として技術的にどのようなものがあるのか調べてみたので、ブログとしてまとめておきます。今回取り上げる論文はarxiv]]></summary>
+        <content type="html"><![CDATA[はじめに大規模言語モデルが発明されたことによって、「機械」と会話ができるようになりました。ファインチューニングやRAGの技術も進み、物語のキャラクターになりきって会話を楽しみたいというニーズにもこたえられるようになりました。実際様々なチャットアプリやサービスはありますが、今回は学術研究として技術的にどのようなものがあるのか調べてみたので、ブログとしてまとめておきます。今回取り上げる論文はarxivにある論文中心で読んでいきます。通常学会論文は執筆・投稿してから査読を経て発表までに1年くらいかかります。しかし、次々と新しいAIのサービスがリリースされることもあり、人工知能の分野...]]></content>
+        <author>
+            <name>shimotomai</name>
+        </author>
+        <published>2025-02-21T10:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xの投稿を「なんJ民口調」に変換、Grok活用の公式機能が突如リリース　「港区女子」「大阪のおばちゃん」にも | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/21/news170.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/21/news170.html"/>
+        <updated>2025-02-21T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[でチャットAIアシスタントの「Grok」を使ったポストの変換機能が、2月21日から実装された。例えば、自分の投稿を「港区女子」「大阪のおばちゃん」「なんJ民」風（旧2ちゃんねるの『なんでも実況J』から生まれた独特の話し方）に変換できる。無料プランのユーザーでも利用可能。]]></summary>
+        <content type="html"><![CDATA[でチャットAIアシスタントの「Grok」を使ったポストの変換機能が、2月21日から実装された。例えば、自分の投稿を「港区女子」「大阪のおばちゃん」「なんJ民」風（旧2ちゃんねるの『なんでも実況J』から生まれた独特の話し方）に変換できる。無料プランのユーザーでも利用可能。]]></content>
+        <published>2025-02-21T09:11:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「chakoshi」を試して遊んでみる | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/macori/articles/16836b45c32983</id>
+        <link href="https://zenn.dev/macori/articles/16836b45c32983"/>
+        <updated>2025-02-21T08:57:38.000Z</updated>
+        <summary type="html"><![CDATA[chakoshiとはなんぞNTTコミュニケーションズが発表した、テキストの安全性を判定するサービスです。https://www.ntt.com/about-us/press-releases/news/article/2025/0219.htmlhttps://chakoshi.ntt.comつい先日発表されたばかりのようです。簡単に試せるプレイグラウンドだけでなく、APIも無償提供されてるみたい]]></summary>
+        <content type="html"><![CDATA[chakoshiとはなんぞNTTコミュニケーションズが発表した、テキストの安全性を判定するサービスです。https://www.ntt.com/about-us/press-releases/news/article/2025/0219.htmlhttps://chakoshi.ntt.comつい先日発表されたばかりのようです。簡単に試せるプレイグラウンドだけでなく、APIも無償提供されてるみたいです⭐️↓こういうネチネチした日本的な暴言などに反応して、テキストが安全かどうかを返してくれます。今回はこのAPIを使ってみたいと思います。 公式ドキュメントを読んでAP...]]></content>
+        <author>
+            <name>macori</name>
+        </author>
+        <published>2025-02-21T08:57:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIがWeb操作してくれるOpenAI「Operator」、日本で解禁　飲食店やホテルの予約などもAIにおまかせ | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/21/news165.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/21/news165.html"/>
+        <updated>2025-02-21T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[米OpenAIは、Web上のタスクを代行するエージェントサービス「Operator」を日本向けに提供を始めたと発表した。]]></summary>
+        <content type="html"><![CDATA[米OpenAIは、Web上のタスクを代行するエージェントサービス「Operator」を日本向けに提供を始めたと発表した。]]></content>
+        <published>2025-02-21T08:41:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【マナビDX Quest】Challenge Mission 攻略会を開催してみた感想 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/chattso_gpt/articles/02be35244429be</id>
+        <link href="https://zenn.dev/chattso_gpt/articles/02be35244429be"/>
+        <updated>2025-02-21T07:00:09.000Z</updated>
+        <summary type="html"><![CDATA[!読者は初学者から中級者程度を想定しております。この記事は2025年2月時点での公開情報および検証内容に基づいて執筆しています。SIGNATE Cloudは現在法人向けに有料で提供されているサービスです。本記事の内容については、サービス提供元のSIGNATEから許可を得て公開しています。 はじめに毎年の恒例行事になっているのですが、社会人のスキルアップ課外活動として『マナビDX Quest』という]]></summary>
+        <content type="html"><![CDATA[!読者は初学者から中級者程度を想定しております。この記事は2025年2月時点での公開情報および検証内容に基づいて執筆しています。SIGNATE Cloudは現在法人向けに有料で提供されているサービスです。本記事の内容については、サービス提供元のSIGNATEから許可を得て公開しています。 はじめに毎年の恒例行事になっているのですが、社会人のスキルアップ課外活動として『マナビDX Quest』というものがあります。元はAI実装を目的としたAI Questだったのですが、DX推進までスコープが広がり、より実践に近いスキルを養うとのことで名称が変更になりました。現在はコンサルテ...]]></content>
+        <author>
+            <name>Chattso-GPT</name>
+        </author>
+        <published>2025-02-21T07:00:09.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025年2月21日] さいきょー（自称）のGrok3 (週刊AI) | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/carenet/articles/be92ec6030e8aa</id>
+        <link href="https://zenn.dev/carenet/articles/be92ec6030e8aa"/>
+        <updated>2025-02-21T06:47:03.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Kaiです。ようやく週刊ペースに戻せました……。さて、直近の話題はGrok3です。ご存知イーロン・マスク氏のxAIから登場したモデルで、早速X（旧Twitter）上で使えるようになっています。最初は有料ユーザのみ利用できたようですが、その後一時的に無料ユーザにも開放されました。後述しますが、Grok3についてはベンチマークよりも、その構築プロセスの方に注目すべきでしょう。当初H100が]]></summary>
+        <content type="html"><![CDATA[こんにちは、Kaiです。ようやく週刊ペースに戻せました……。さて、直近の話題はGrok3です。ご存知イーロン・マスク氏のxAIから登場したモデルで、早速X（旧Twitter）上で使えるようになっています。最初は有料ユーザのみ利用できたようですが、その後一時的に無料ユーザにも開放されました。後述しますが、Grok3についてはベンチマークよりも、その構築プロセスの方に注目すべきでしょう。当初H100が8000枚しかなかったGPUリソースを、122日で10万台にまで拡大したとのことです（ベンダー見積は1～2年）。さらに、92日をかけて同規模のクラスターをもう一つ作りました。恐らく、ここま...]]></content>
+        <author>
+            <name>Kai</name>
+        </author>
+        <published>2025-02-21T06:47:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2025年2月21日] さいきょー（自称）のGrok3 (週刊AI) | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/carenet/articles/be92ec6030e8aa</id>
+        <link href="https://zenn.dev/carenet/articles/be92ec6030e8aa"/>
+        <updated>2025-02-21T06:47:03.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Kaiです。ようやく週刊ペースに戻せました……。さて、直近の話題はGrok3です。ご存知イーロン・マスク氏のxAIから登場したモデルで、早速X（旧Twitter）上で使えるようになっています。最初は有料ユーザのみ利用できたようですが、その後一時的に無料ユーザにも開放されました。後述しますが、Grok3についてはベンチマークよりも、その構築プロセスの方に注目すべきでしょう。当初H100が]]></summary>
+        <content type="html"><![CDATA[こんにちは、Kaiです。ようやく週刊ペースに戻せました……。さて、直近の話題はGrok3です。ご存知イーロン・マスク氏のxAIから登場したモデルで、早速X（旧Twitter）上で使えるようになっています。最初は有料ユーザのみ利用できたようですが、その後一時的に無料ユーザにも開放されました。後述しますが、Grok3についてはベンチマークよりも、その構築プロセスの方に注目すべきでしょう。当初H100が8000枚しかなかったGPUリソースを、122日で10万台にまで拡大したとのことです（ベンダー見積は1～2年）。さらに、92日をかけて同規模のクラスターをもう一つ作りました。恐らく、ここま...]]></content>
+        <author>
+            <name>Kai</name>
+        </author>
+        <published>2025-02-21T06:47:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMを画面操作AIに変換するMicrosoft開発「OmniParser V2」、Claudeでやり取りした数百万件の内部データを活用したAIが労働市場に与える影響調査、ByteDanceの新動画生成AI「Goku」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/21/4136.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/21/4136.html"/>
+        <updated>2025-02-21T05:36:28.000Z</updated>
+        <summary type="html"><![CDATA[この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する「生成AIウィークリー」（第83回）では、大規模言語モデル（LLM）を画像操作できるAIエージェントに変換する「OmniParser V2」や、ByteDanceの画像や動画を生成する新しいAI「Goku」を取り上げます。]]></summary>
+        <content type="html"><![CDATA[この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する「生成AIウィークリー」（第83回）では、大規模言語モデル（LLM）を画像操作できるAIエージェントに変換する「OmniParser V2」や、ByteDanceの画像や動画を生成する新しいAI「Goku」を取り上げます。]]></content>
+        <published>2025-02-21T05:36:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最薄記録を更新したOPPOの折りたたみ「Find N5」の実機を超速で触ってきた（スマホ沼） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/21/4135.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/21/4135.html"/>
+        <updated>2025-02-21T04:05:30.000Z</updated>
+        <summary type="html"><![CDATA[OPPOの新型折りたたみスマートフォン「Find N5」は、薄さやパフォーマンス、ディスプレイ品質が際立っており、折りたたみスマホの常識を変えるモデルです。]]></summary>
+        <content type="html"><![CDATA[OPPOの新型折りたたみスマートフォン「Find N5」は、薄さやパフォーマンス、ディスプレイ品質が際立っており、折りたたみスマホの常識を変えるモデルです。]]></content>
+        <published>2025-02-21T04:05:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「メモリ32GBモデルが急激に増えている」──日本HPが明かすAI PCの“異変”　大容量メモリが必要なワケ | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/21/news115.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/21/news115.html"/>
+        <updated>2025-02-21T03:00:00.000Z</updated>
+        <published>2025-02-21T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geminiの記憶を「汚染」　生成AIの弱点を突くハッキングの手口、海外の研究者が報告 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/21/news080.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/21/news080.html"/>
+        <updated>2025-02-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[生成AIの弱点を突くAIハッキングの手口を研究しているサイバーセキュリティ研究者が、Geminiに不正な文書を読み込ませてユーザーの経歴を書き換えさせる方法を発見し、コンセプト実証動画を公開した。]]></summary>
+        <content type="html"><![CDATA[生成AIの弱点を突くAIハッキングの手口を研究しているサイバーセキュリティ研究者が、Geminiに不正な文書を読み込ませてユーザーの経歴を書き換えさせる方法を発見し、コンセプト実証動画を公開した。]]></content>
+        <published>2025-02-21T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 3 API Coming Soon!! | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/fkky/articles/91606a3fc8ab2b</id>
+        <link href="https://zenn.dev/fkky/articles/91606a3fc8ab2b"/>
+        <updated>2025-02-21T02:22:55.000Z</updated>
+        <summary type="html"><![CDATA[まずは、素晴らしい記事の共有からhttps://zenn.dev/schroneko/articles/de3a8f574e9ea4上記の記事のおかげで、個人開発で作っているAIエージェントに必要なAPIの利用料金を気にせずバンバン使えるようになりました。ただ、初めてGrok-2を使ってみると精度が不十分で、他モデルで期待動作をしていたエージェントが誤った動作をするようになりました。そんな中、Xa]]></summary>
+        <content type="html"><![CDATA[まずは、素晴らしい記事の共有からhttps://zenn.dev/schroneko/articles/de3a8f574e9ea4上記の記事のおかげで、個人開発で作っているAIエージェントに必要なAPIの利用料金を気にせずバンバン使えるようになりました。ただ、初めてGrok-2を使ってみると精度が不十分で、他モデルで期待動作をしていたエージェントが誤った動作をするようになりました。そんな中、Xaiのコンソールで以下のお知らせがのっていました。https://x.ai/blog/grok-3やったぜGrok-3 BetaとGrok-3-mini Betaの2種類あって、R...]]></content>
+        <author>
+            <name>ふっきー</name>
+        </author>
+        <published>2025-02-21T02:22:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 3 API Coming Soon!! | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/fkky/articles/91606a3fc8ab2b</id>
+        <link href="https://zenn.dev/fkky/articles/91606a3fc8ab2b"/>
+        <updated>2025-02-21T02:22:55.000Z</updated>
+        <summary type="html"><![CDATA[まずは、素晴らしい記事の共有からhttps://zenn.dev/schroneko/articles/de3a8f574e9ea4上記の記事のおかげで、個人開発で作っているAIエージェントに必要なAPIの利用料金を気にせずバンバン使えるようになりました。ただ、初めてGrok-2を使ってみると精度が不十分で、他モデルで期待動作をしていたエージェントが誤った動作をするようになりました。そんな中、Xa]]></summary>
+        <content type="html"><![CDATA[まずは、素晴らしい記事の共有からhttps://zenn.dev/schroneko/articles/de3a8f574e9ea4上記の記事のおかげで、個人開発で作っているAIエージェントに必要なAPIの利用料金を気にせずバンバン使えるようになりました。ただ、初めてGrok-2を使ってみると精度が不十分で、他モデルで期待動作をしていたエージェントが誤った動作をするようになりました。そんな中、Xaiのコンソールで以下のお知らせがのっていました。https://x.ai/blog/grok-3やったぜGrok-3 BetaとGrok-3-mini Betaの2種類あって、R...]]></content>
+        <author>
+            <name>ふっきー</name>
+        </author>
+        <published>2025-02-21T02:22:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特化型AI、生成AI、AGI、ASI - 概要 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/aoyamadev/articles/e95464757f858f</id>
+        <link href="https://zenn.dev/aoyamadev/articles/e95464757f858f"/>
+        <updated>2025-02-21T02:03:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAI（人工知能）にはいろんな種類がありますが、どれも同じではありません。この記事では、「特化型AI」「生成AI」「AGI」「ASI」の4つを簡単に説明いたします。私自身も、まだまだ初学者の身ですので、どんな違いがあるのか一緒に見ていきましょう。 特化型AIとは？特化型AIは、特定のタスクにめっちゃ得意なAIのこと。たとえば、「これだけできればOK！」って決まった仕事をする専門家みたいなもの]]></summary>
+        <content type="html"><![CDATA[はじめにAI（人工知能）にはいろんな種類がありますが、どれも同じではありません。この記事では、「特化型AI」「生成AI」「AGI」「ASI」の4つを簡単に説明いたします。私自身も、まだまだ初学者の身ですので、どんな違いがあるのか一緒に見ていきましょう。 特化型AIとは？特化型AIは、特定のタスクにめっちゃ得意なAIのこと。たとえば、「これだけできればOK！」って決まった仕事をする専門家みたいなものです。例:SiriやAlexa（声で命令を聞いてくれる）チェスの名人に勝ったDeep Blueレントゲンを見て病気を診断する医療AI特徴: とにかく1つの...]]></content>
+        <author>
+            <name>Aoyama</name>
+        </author>
+        <published>2025-02-21T02:03:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特化型AI、生成AI、AGI、ASI - 概要 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/aoyamadev/articles/e95464757f858f</id>
+        <link href="https://zenn.dev/aoyamadev/articles/e95464757f858f"/>
+        <updated>2025-02-21T02:03:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAI（人工知能）にはいろんな種類がありますが、どれも同じではありません。この記事では、「特化型AI」「生成AI」「AGI」「ASI」の4つを簡単に説明いたします。私自身も、まだまだ初学者の身ですので、どんな違いがあるのか一緒に見ていきましょう。 特化型AIとは？特化型AIは、特定のタスクにめっちゃ得意なAIのこと。たとえば、「これだけできればOK！」って決まった仕事をする専門家みたいなもの]]></summary>
+        <content type="html"><![CDATA[はじめにAI（人工知能）にはいろんな種類がありますが、どれも同じではありません。この記事では、「特化型AI」「生成AI」「AGI」「ASI」の4つを簡単に説明いたします。私自身も、まだまだ初学者の身ですので、どんな違いがあるのか一緒に見ていきましょう。 特化型AIとは？特化型AIは、特定のタスクにめっちゃ得意なAIのこと。たとえば、「これだけできればOK！」って決まった仕事をする専門家みたいなものです。例:SiriやAlexa（声で命令を聞いてくれる）チェスの名人に勝ったDeep Blueレントゲンを見て病気を診断する医療AI特徴: とにかく1つの...]]></content>
+        <author>
+            <name>Aoyama</name>
+        </author>
+        <published>2025-02-21T02:03:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LlamaIndexのAgentWorkflowについて学ぶ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/zenkigen_tech/articles/697fbc6082aec7</id>
+        <link href="https://zenn.dev/zenkigen_tech/articles/697fbc6082aec7"/>
+        <updated>2025-02-21T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ZENKIGENデータサイエンスチームの栗原です。現在は『harutaka EF（エントリーファインダー）』の自然言語処理周りの研究開発などに携わっています。所属チームで Xアカウント を運用しており、AIに関する情報を発信していますので、よろしければこちらも覗いてみてください。LlamaIndexは、LLMを用いたアプリケーション構築をするためのシンプルで柔軟なフレームワークです。h]]></summary>
+        <content type="html"><![CDATA[こんにちは。ZENKIGENデータサイエンスチームの栗原です。現在は『harutaka EF（エントリーファインダー）』の自然言語処理周りの研究開発などに携わっています。所属チームで Xアカウント を運用しており、AIに関する情報を発信していますので、よろしければこちらも覗いてみてください。LlamaIndexは、LLMを用いたアプリケーション構築をするためのシンプルで柔軟なフレームワークです。https://www.llamaindex.ai/frameworkAgentWorkflow は、LlamaIndexに新たに（2025年1月22日に）導入されたシステムで、複数のエー...]]></content>
+        <author>
+            <name>masakuri</name>
+        </author>
+        <published>2025-02-21T02:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM APIを監視するために、OpenTelemetryをECSからDatadogに送れるようにしました | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/ivry/articles/ad10d8df9cfa98</id>
+        <link href="https://zenn.dev/ivry/articles/ad10d8df9cfa98"/>
+        <updated>2025-02-21T01:57:59.000Z</updated>
+        <summary type="html"><![CDATA[背景株式会社IVRyでAIエンジニアとして働いているMoriyaです。弊社では、ECS上で動くapplicationからLLM APIを呼びだしており、sidecarとしてDatadog Agentを使っています。LLM APIの監視ツールとして、これまでDatadog LLM observability機能を使っていました。しかし、LLM observabilityだと、OpenAI以外のLLM]]></summary>
+        <content type="html"><![CDATA[背景株式会社IVRyでAIエンジニアとして働いているMoriyaです。弊社では、ECS上で動くapplicationからLLM APIを呼びだしており、sidecarとしてDatadog Agentを使っています。LLM APIの監視ツールとして、これまでDatadog LLM observability機能を使っていました。しかし、LLM observabilityだと、OpenAI以外のLLM APIを監視することができませんでした。そこで、さまざまなLLM APIを監視するツールとして、OpenTelemetryに則ったライブラリであるOpenLITの導入を検討し始めま...]]></content>
+        <author>
+            <name>Moriya</name>
+        </author>
+        <published>2025-02-21T01:57:59.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経産省「AIの利用・開発に関する契約チェックリスト」を公開　増える契約リスク | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2502/21/news088.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2502/21/news088.html"/>
+        <updated>2025-02-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[経済産業省は、AIの利活用における契約の重要性を踏まえ、「AIの利用・開発に関する契約チェックリスト」を取りまとめた。このチェックリストは、AI技術の利用者が法的リスクを回避し、適切な契約を締結するための参考資料となっている。]]></summary>
+        <content type="html"><![CDATA[経済産業省は、AIの利活用における契約の重要性を踏まえ、「AIの利用・開発に関する契約チェックリスト」を取りまとめた。このチェックリストは、AI技術の利用者が法的リスクを回避し、適切な契約を締結するための参考資料となっている。]]></content>
+        <published>2025-02-21T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIへの過剰な投資が技術リーダーに与える"圧"とは？ | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2502/21/news085.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2502/21/news085.html"/>
+        <updated>2025-02-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dataikuが発表したレポートによると、データ、アナリティクス、ITリーダーの66%が過去12か月間に100万ドル以上を生成AIに投資している。多くの企業が投資を増やす計画であり、ROIの定量化への圧力が高まっている。]]></summary>
+        <content type="html"><![CDATA[Dataikuが発表したレポートによると、データ、アナリティクス、ITリーダーの66%が過去12か月間に100万ドル以上を生成AIに投資している。多くの企業が投資を増やす計画であり、ROIの定量化への圧力が高まっている。]]></content>
+        <published>2025-02-21T01:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAIの「ChatGPT」、ユーザー数が4億人突破──COOがXで発表 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2502/21/news109.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2502/21/news109.html"/>
+        <updated>2025-02-21T00:31:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIのライトキャップCOOは、ChatGPTのユーザー数が最近4億人を突破したとXに投稿した。推論モデルAPIの使用は「o3-mini」リリース以来5倍に増加したとしている。]]></summary>
+        <content type="html"><![CDATA[OpenAIのライトキャップCOOは、ChatGPTのユーザー数が最近4億人を突破したとXに投稿した。推論モデルAPIの使用は「o3-mini」リリース以来5倍に増加したとしている。]]></content>
+        <published>2025-02-21T00:31:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社内向けChrome ExtensionsをReactでモダンにしてみた | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=54322</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/54322/"/>
+        <updated>2025-02-20T23:26:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ご覧いただきありがとうございます。 2024年夏、社内ツール「CA Search」をリニュ ...]]></summary>
+        <content type="html"><![CDATA[はじめに ご覧いただきありがとうございます。 2024年夏、社内ツール「CA Search」をリニュ ...]]></content>
+        <author>
+            <name>kasu</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="Chrome Extensions"/>
+        <category label="MUI"/>
+        <category label="React"/>
+        <category label="フロントエンド"/>
+        <published>2025-02-20T23:26:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【私の実体験】生成AIを業務で活用し、生産性を劇的に向上させた方法 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/acntechjp/articles/f992663277adc5</id>
+        <link href="https://zenn.dev/acntechjp/articles/f992663277adc5"/>
+        <updated>2025-02-20T23:08:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに最近、業務の中で 生成AIを活用することで生産性が劇的に向上する ことを実感する機会がありました。私は2023年6月（GPT-4が登場したころ）から 毎日生成AIを使い続けています。その結果、AIを使うことが 無意識レベルの習慣 になり、業務の中で自然に「どのタスクをAIに任せると効率的か？」を判断できるようになりました。先日、海外チーム向けのドキュメント作成を行うタスクが発生しましたが、]]></summary>
+        <content type="html"><![CDATA[はじめに最近、業務の中で 生成AIを活用することで生産性が劇的に向上する ことを実感する機会がありました。私は2023年6月（GPT-4が登場したころ）から 毎日生成AIを使い続けています。その結果、AIを使うことが 無意識レベルの習慣 になり、業務の中で自然に「どのタスクをAIに任せると効率的か？」を判断できるようになりました。先日、海外チーム向けのドキュメント作成を行うタスクが発生しましたが、 生成AI登場以前なら数日かかったであろう作業を1時間以内（約40分）で完了 できました。この記事では、その詳細と、私が生成AIをどのように活用しているのかを紹介し、「なぜAIを使...]]></content>
+        <author>
+            <name>shinya.hara</name>
+        </author>
+        <published>2025-02-20T23:08:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[失注の理由はココだった！CREが解き明かした勝ちパターンと負けパターン | ACES エンジニアブログ]]></title>
+        <id>https://tech.acesinc.co.jp/entry/2025/02/21/080000</id>
+        <link href="https://tech.acesinc.co.jp/entry/2025/02/21/080000"/>
+        <updated>2025-02-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あいさつ はじめまして、ACESでソフトウェアエンジニア兼CREをしている村上です。 最近はポーカーにハマり、内でも外でもポーカーばかりしています。社名のACESはポーカーにおける最強ハンドの名前と一致しているのでそれにあやかってポーカーも強くなりたいものです。 前回の記事で、CREの役割として以下の3つの挙げました。 顧客の現状を把握できるようにする 顧客の問題を取り除き、やりたいことを実現でき]]></summary>
+        <content type="html"><![CDATA[あいさつ はじめまして、ACESでソフトウェアエンジニア兼CREをしている村上です。 最近はポーカーにハマり、内でも外でもポーカーばかりしています。社名のACESはポーカーにおける最強ハンドの名前と一致しているのでそれにあやかってポーカーも強くなりたいものです。 前回の記事で、CREの役割として以下の3つの挙げました。 顧客の現状を把握できるようにする 顧客の問題を取り除き、やりたいことを実現できるようにする CS業務を効率化し、顧客に向き合える時間を増やす 今回はこの中から、 顧客の現状を把握できるようにする 顧客の問題を取り除き、やりたいことを実現できるようにする の2点を中心に、どのよう…]]></content>
+        <published>2025-02-20T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google元副社長、村上憲郎氏に聞く「AI時代の人材育成術」 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/business/articles/2502/21/news079.html</id>
+        <link href="https://www.itmedia.co.jp/business/articles/2502/21/news079.html"/>
+        <updated>2025-02-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グーグル米国本社副社長兼グーグル日本法人の社長などを長年務めた村上憲郎氏に、AI時代の人材育成術や、グーグルの発展の歴史について話を聞いた。]]></summary>
+        <content type="html"><![CDATA[グーグル米国本社副社長兼グーグル日本法人の社長などを長年務めた村上憲郎氏に、AI時代の人材育成術や、グーグルの発展の歴史について話を聞いた。]]></content>
+        <published>2025-02-20T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tanuki で MoE の挙動を調査 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/7shi/articles/8c4255d199264f</id>
+        <link href="https://zenn.dev/7shi/articles/8c4255d199264f"/>
+        <updated>2025-02-20T22:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Tanuki-8B-dpo-v1.0 と Tanuki-8x8B-dpo-v1.0 を使って、Ollama での MoE の挙動を調査します。 MoEMoE（Mixture of Experts）は、大規模言語モデル（LLM）の一形態です。モデルの中にエキスパート（専門家）を複数用意して、質問や文章の一部ごとに最適なエキスパートを選んで回答を生成します。例えば、数学が得意な専門家や、歴史が得意な専]]></summary>
+        <content type="html"><![CDATA[Tanuki-8B-dpo-v1.0 と Tanuki-8x8B-dpo-v1.0 を使って、Ollama での MoE の挙動を調査します。 MoEMoE（Mixture of Experts）は、大規模言語モデル（LLM）の一形態です。モデルの中にエキスパート（専門家）を複数用意して、質問や文章の一部ごとに最適なエキスパートを選んで回答を生成します。例えば、数学が得意な専門家や、歴史が得意な専門家がいて、必要なときだけその専門家が働くイメージです。全部の専門家を一度に使うわけではないため、モデルサイズに比べて計算は軽くなります。最近話題になった DeepSeek も MoE...]]></content>
+        <author>
+            <name>7shi</name>
+        </author>
+        <published>2025-02-20T22:08:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CursorでSwift書くの辛い！Alex Sidebar使ってみた | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/maeken/articles/24ec25e8119341</id>
+        <link href="https://zenn.dev/maeken/articles/24ec25e8119341"/>
+        <updated>2025-02-20T14:24:45.000Z</updated>
+        <summary type="html"><![CDATA[下手にFlutterが書けるようになったあまり、個人開発をSwiftで書くべきかというAppleへの信者心を試されている者です。普段業務は Cursor でFlutterを書いているのですが、「個人開発くらいSwiftで書きたい！」と思いCursorでSwiftが書けないか挑戦しました。が、まぁなんとも書きにくい。XcodeでCursorみたいなことができないか、と探してみると・・・あるじゃないか]]></summary>
+        <content type="html"><![CDATA[下手にFlutterが書けるようになったあまり、個人開発をSwiftで書くべきかというAppleへの信者心を試されている者です。普段業務は Cursor でFlutterを書いているのですが、「個人開発くらいSwiftで書きたい！」と思いCursorでSwiftが書けないか挑戦しました。が、まぁなんとも書きにくい。XcodeでCursorみたいなことができないか、と探してみると・・・あるじゃないかですか。 Alex Sidebarhttps://alexcodes.app/一言で言うと「CursorみたいにAIが使えるSideBarをXcodeにつけてみた」もののようで...]]></content>
+        <author>
+            <name>まえけん</name>
+        </author>
+        <published>2025-02-20T14:24:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scikit-Learnが遅いので、C++製の超高速機械学習ライブラリを作った話 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/veloxml/articles/045522725e1278</id>
+        <link href="https://zenn.dev/veloxml/articles/045522725e1278"/>
+        <updated>2025-02-20T12:42:10.000Z</updated>
+        <summary type="html"><![CDATA[【VeloxML】Scikit-Learnが遅いので、C++製の超高速機械学習ライブラリを作った話こんにちは！機械学習の高速化を目指し、C++製の機械学習ライブラリ「VeloxML」(アルファ版) を開発したので紹介したいと思います。 導入（イントロ）機械学習を実際のプロジェクトで活用しようとすると、計算速度の壁に直面することがあります。特に、数百万件のデータをローカル環境で学習させるようなケース]]></summary>
+        <content type="html"><![CDATA[【VeloxML】Scikit-Learnが遅いので、C++製の超高速機械学習ライブラリを作った話こんにちは！機械学習の高速化を目指し、C++製の機械学習ライブラリ「VeloxML」(アルファ版) を開発したので紹介したいと思います。 導入（イントロ）機械学習を実際のプロジェクトで活用しようとすると、計算速度の壁に直面することがあります。特に、数百万件のデータをローカル環境で学習させるようなケースでは、既存のライブラリの限界を感じることがありました。最初は scikit-learn を使っていましたが、大規模データでの学習が遅く、処理時間がボトルネックになっていました。か...]]></content>
+        <author>
+            <name>VeloxML</name>
+        </author>
+        <published>2025-02-20T12:42:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scikit-Learnが遅いので、C++製の超高速機械学習ライブラリを作った話 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/veloxml/articles/045522725e1278</id>
+        <link href="https://zenn.dev/veloxml/articles/045522725e1278"/>
+        <updated>2025-02-20T12:42:10.000Z</updated>
+        <summary type="html"><![CDATA[【VeloxML】Scikit-Learnが遅いので、C++製の超高速機械学習ライブラリを作った話こんにちは！機械学習の高速化を目指し、C++製の機械学習ライブラリ「VeloxML」(アルファ版) を開発したので紹介したいと思います。 導入（イントロ）機械学習を実際のプロジェクトで活用しようとすると、計算速度の壁に直面することがあります。特に、数百万件のデータをローカル環境で学習させるようなケース]]></summary>
+        <content type="html"><![CDATA[【VeloxML】Scikit-Learnが遅いので、C++製の超高速機械学習ライブラリを作った話こんにちは！機械学習の高速化を目指し、C++製の機械学習ライブラリ「VeloxML」(アルファ版) を開発したので紹介したいと思います。 導入（イントロ）機械学習を実際のプロジェクトで活用しようとすると、計算速度の壁に直面することがあります。特に、数百万件のデータをローカル環境で学習させるようなケースでは、既存のライブラリの限界を感じることがありました。最初は scikit-learn を使っていましたが、大規模データでの学習が遅く、処理時間がボトルネックになっていました。か...]]></content>
+        <author>
+            <name>VeloxML</name>
+        </author>
+        <published>2025-02-20T12:42:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16eで初搭載のアップル独自モデム、1.5GHz帯非対応でも大丈夫なのか（石野純也） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/20/4134.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/20/4134.html"/>
+        <updated>2025-02-20T11:57:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、2月20日にiPhone 16シリーズの廉価版とも言える「iPhone 16e」を発表しました。]]></summary>
+        <content type="html"><![CDATA[アップルは、2月20日にiPhone 16シリーズの廉価版とも言える「iPhone 16e」を発表しました。]]></content>
+        <published>2025-02-20T11:57:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOSH Tech Radio #5「MOSHエンジニアが明かすAI活用の舞台裏」 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/moshjp/articles/c8a2709c91ad30</id>
+        <link href="https://zenn.dev/moshjp/articles/c8a2709c91ad30"/>
+        <updated>2025-02-20T11:14:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこの記事はMOSH Tech Radioの#5、「MOSHエンジニアが明かすAI活用の舞台裏」の内容をもとに執筆しました。。今回のエピソードでは、AIエンジニアの兼山さんをゲストに迎えて、AIを用いた機能開発や社内でのAI活用について、その活用事例や苦労話、今後の展望などを語っています。 参加メンバーMC: Ryo Adachi (⁠⁠⁠X) MOSH株式会社 Productivity t]]></summary>
+        <content type="html"><![CDATA[はじめにこの記事はMOSH Tech Radioの#5、「MOSHエンジニアが明かすAI活用の舞台裏」の内容をもとに執筆しました。。今回のエピソードでは、AIエンジニアの兼山さんをゲストに迎えて、AIを用いた機能開発や社内でのAI活用について、その活用事例や苦労話、今後の展望などを語っています。 参加メンバーMC: Ryo Adachi (⁠⁠⁠X) MOSH株式会社 Productivity team Software EngineerSIerとしてエンジニアのキャリアをスタート後、コネヒト株式会社に入社。バックエンド/フロントエンド開発に従事しながら、リードエンジニア...]]></content>
+        <author>
+            <name>Kazuki Murayama</name>
+        </author>
+        <published>2025-02-20T11:14:39.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor × Composer: AIエージェント開発効率を加速させる厳選リンク集 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/t09tanaka/articles/88bcc7e3973832</id>
+        <link href="https://zenn.dev/t09tanaka/articles/88bcc7e3973832"/>
+        <updated>2025-02-20T10:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Xで見つけた興味深い情報をメモとして追加していきます。随時更新予定。 Cursorとペアプログラミングするための向き合い方Cursorが動いてくれない…と不満を持った人におすすめの記事。Cursorとペアプログラミングするための向き合い方を実例を交えて解説してくれています。実際に取り入れてみましたが、かなり手応えを感じています。https://skylarbpayne.com/posts/curs]]></summary>
+        <content type="html"><![CDATA[Xで見つけた興味深い情報をメモとして追加していきます。随時更新予定。 Cursorとペアプログラミングするための向き合い方Cursorが動いてくれない…と不満を持った人におすすめの記事。Cursorとペアプログラミングするための向き合い方を実例を交えて解説してくれています。実際に取り入れてみましたが、かなり手応えを感じています。https://skylarbpayne.com/posts/cursed-cursor Cursorにデバッガー モードとプランナー モードを追加するCursorのComposerに「Debugger Mode」または「Planner Mod...]]></content>
+        <author>
+            <name>Takuto Tanaka</name>
+        </author>
+        <published>2025-02-20T10:07:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor × Composer: AIエージェント開発効率を加速させる厳選リンク集 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/t09tanaka/articles/88bcc7e3973832</id>
+        <link href="https://zenn.dev/t09tanaka/articles/88bcc7e3973832"/>
+        <updated>2025-02-20T10:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Xで見つけた興味深い情報をメモとして追加していきます。随時更新予定。 Cursorとペアプログラミングするための向き合い方Cursorが動いてくれない…と不満を持った人におすすめの記事。Cursorとペアプログラミングするための向き合い方を実例を交えて解説してくれています。実際に取り入れてみましたが、かなり手応えを感じています。https://skylarbpayne.com/posts/curs]]></summary>
+        <content type="html"><![CDATA[Xで見つけた興味深い情報をメモとして追加していきます。随時更新予定。 Cursorとペアプログラミングするための向き合い方Cursorが動いてくれない…と不満を持った人におすすめの記事。Cursorとペアプログラミングするための向き合い方を実例を交えて解説してくれています。実際に取り入れてみましたが、かなり手応えを感じています。https://skylarbpayne.com/posts/cursed-cursor Cursorにデバッガー モードとプランナー モードを追加するCursorのComposerに「Debugger Mode」または「Planner Mod...]]></content>
+        <author>
+            <name>Takuto Tanaka</name>
+        </author>
+        <published>2025-02-20T10:07:15.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントとは。未来の働き方はどう変わるのか。 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/misu3/articles/523fb4dcfe3d40</id>
+        <link href="https://zenn.dev/misu3/articles/523fb4dcfe3d40"/>
+        <updated>2025-02-20T09:34:05.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントとはAIエージェントとは、 ユーザーの指示を受け取り、自律的にタスクを実行する人工知能システム のことです。簡単に言うと、 「頼んだことを自動でこなしてくれるアシスタント」 のような存在です。従来のコンピューターシステムとは違い、AIエージェントは状況に応じて適切な判断を下し、最適な方法でタスクを遂行してくれます。AIエージェントの特徴として、以下のポイントが挙げられます。自律性:]]></summary>
+        <content type="html"><![CDATA[AIエージェントとはAIエージェントとは、 ユーザーの指示を受け取り、自律的にタスクを実行する人工知能システム のことです。簡単に言うと、 「頼んだことを自動でこなしてくれるアシスタント」 のような存在です。従来のコンピューターシステムとは違い、AIエージェントは状況に応じて適切な判断を下し、最適な方法でタスクを遂行してくれます。AIエージェントの特徴として、以下のポイントが挙げられます。自律性: 人の指示なしにタスクを実行し、状況に応じて適切に対応する。適応性: 環境の変化に対応し、学習することでパフォーマンスを向上させる。インタラクティブ性: ユーザーとのやり取り...]]></content>
+        <author>
+            <name>misu3</name>
+        </author>
+        <published>2025-02-20T09:34:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントとは。未来の働き方はどう変わるのか。 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/misu3/articles/523fb4dcfe3d40</id>
+        <link href="https://zenn.dev/misu3/articles/523fb4dcfe3d40"/>
+        <updated>2025-02-20T09:34:05.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントとはAIエージェントとは、 ユーザーの指示を受け取り、自律的にタスクを実行する人工知能システム のことです。簡単に言うと、 「頼んだことを自動でこなしてくれるアシスタント」 のような存在です。従来のコンピューターシステムとは違い、AIエージェントは状況に応じて適切な判断を下し、最適な方法でタスクを遂行してくれます。AIエージェントの特徴として、以下のポイントが挙げられます。自律性:]]></summary>
+        <content type="html"><![CDATA[AIエージェントとはAIエージェントとは、 ユーザーの指示を受け取り、自律的にタスクを実行する人工知能システム のことです。簡単に言うと、 「頼んだことを自動でこなしてくれるアシスタント」 のような存在です。従来のコンピューターシステムとは違い、AIエージェントは状況に応じて適切な判断を下し、最適な方法でタスクを遂行してくれます。AIエージェントの特徴として、以下のポイントが挙げられます。自律性: 人の指示なしにタスクを実行し、状況に応じて適切に対応する。適応性: 環境の変化に対応し、学習することでパフォーマンスを向上させる。インタラクティブ性: ユーザーとのやり取り...]]></content>
+        <author>
+            <name>misu3</name>
+        </author>
+        <published>2025-02-20T09:34:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パワポ地獄から解放！AIが10分で仕上げる魔法の資料作成術 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/autoppt/articles/773cb395c98c37</id>
+        <link href="https://zenn.dev/autoppt/articles/773cb395c98c37"/>
+        <updated>2025-02-20T08:01:13.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして、Webディレクターのリナです✨今日はデジタル時代の救世主「AI PowerPoint」をご紹介！「資料作成で毎日2時間ロス…」という私の悩みを解決した神ツールの実態に迫ります♪▮あるある劇場＜Before＞「明日の会議までに30ページの企画書！」→ デザイン選びに1時間→ 図表の位置調整で45分→ アニメーション設定で挫折…結局終電帰りになるパターン、ありませんか？▮衝撃の＜Afte]]></summary>
+        <content type="html"><![CDATA[はじめまして、Webディレクターのリナです✨今日はデジタル時代の救世主「AI PowerPoint」をご紹介！「資料作成で毎日2時間ロス…」という私の悩みを解決した神ツールの実態に迫ります♪▮あるある劇場＜Before＞「明日の会議までに30ページの企画書！」→ デザイン選びに1時間→ 図表の位置調整で45分→ アニメーション設定で挫折…結局終電帰りになるパターン、ありませんか？▮衝撃の＜After＞体験AutoPPTを導入してからのワークフロー：メモ書きのPDFをポイっとアップロード「カジュアル系」「ビジネス厳格モード」からテイスト選択コーヒーを淹れている間に...]]></content>
+        <author>
+            <name>Autoppt</name>
+        </author>
+        <published>2025-02-20T08:01:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三つ折りだから立体映像も楽しめる！ Mate XT Ultimate Designを体験スペースで納得いくまで触ってきた（スマホ沼） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/20/4133.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/20/4133.html"/>
+        <updated>2025-02-20T07:45:02.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイが発表した三つ折りスマホ「Mate XT Ultimate Design」を体験できるスペースがマレーシアで開催。製品の利便性やデモが紹介された。今後日本でも同様のイベント開催を期待。]]></summary>
+        <content type="html"><![CDATA[ファーウェイが発表した三つ折りスマホ「Mate XT Ultimate Design」を体験できるスペースがマレーシアで開催。製品の利便性やデモが紹介された。今後日本でも同様のイベント開催を期待。]]></content>
+        <published>2025-02-20T07:45:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DifyのKnowledgebase APIを使って、ナレッジのデータを更新する | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/solvio/articles/547db2c2acc28d</id>
+        <link href="https://zenn.dev/solvio/articles/547db2c2acc28d"/>
+        <updated>2025-02-20T07:09:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに生成AIを活用することができるローコード / ノーコードツールにはナレッジと呼ばれる機能があります。ナレッジを利用することで簡単に社内データなどを参照可能なRAGを構築することができます。このナレッジにはAPIが準備されており、RAGで利用するデータの更新をAPI経由などで実施することが可能です。API経由で更新が可能となることで、Lambdaの定期実行などを利用すると自動で参照データを更]]></summary>
+        <content type="html"><![CDATA[はじめに生成AIを活用することができるローコード / ノーコードツールにはナレッジと呼ばれる機能があります。ナレッジを利用することで簡単に社内データなどを参照可能なRAGを構築することができます。このナレッジにはAPIが準備されており、RAGで利用するデータの更新をAPI経由などで実施することが可能です。API経由で更新が可能となることで、Lambdaの定期実行などを利用すると自動で参照データを更新することができます。この記事では、 DifyのKnowledge-base APIを利用してDifyのナレッジ（RAG）に対する操作を試してみます。 前提条件この記事の内容はD...]]></content>
+        <author>
+            <name>Tanner / テナー</name>
+        </author>
+        <published>2025-02-20T07:09:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DifyのKnowledgebase APIを使って、ナレッジのデータを更新する | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/solvio/articles/547db2c2acc28d</id>
+        <link href="https://zenn.dev/solvio/articles/547db2c2acc28d"/>
+        <updated>2025-02-20T07:09:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに生成AIを活用することができるローコード / ノーコードツールにはナレッジと呼ばれる機能があります。ナレッジを利用することで簡単に社内データなどを参照可能なRAGを構築することができます。このナレッジにはAPIが準備されており、RAGで利用するデータの更新をAPI経由などで実施することが可能です。API経由で更新が可能となることで、Lambdaの定期実行などを利用すると自動で参照データを更]]></summary>
+        <content type="html"><![CDATA[はじめに生成AIを活用することができるローコード / ノーコードツールにはナレッジと呼ばれる機能があります。ナレッジを利用することで簡単に社内データなどを参照可能なRAGを構築することができます。このナレッジにはAPIが準備されており、RAGで利用するデータの更新をAPI経由などで実施することが可能です。API経由で更新が可能となることで、Lambdaの定期実行などを利用すると自動で参照データを更新することができます。この記事では、 DifyのKnowledge-base APIを利用してDifyのナレッジ（RAG）に対する操作を試してみます。 前提条件この記事の内容はD...]]></content>
+        <author>
+            <name>Tanner / テナー</name>
+        </author>
+        <published>2025-02-20T07:09:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Camel × AI ― サービングによる推論 #2: TensorFlow Serving | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/tadayosi/articles/6e168e1e752e43</id>
+        <link href="https://zenn.dev/tadayosi/articles/6e168e1e752e43"/>
+        <updated>2025-02-20T05:37:12.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でも紹介した通り、先日リリースされたApache Camel 4.10 LTSではAIモデルサービングに関する3つの新しいコンポーネントが追加されました。[1]TorchServeコンポーネントTensorFlow ServingコンポーネントKServeコンポーネント前回はTorchServeコンポーネントについて書いたので、今回はTensorFlow Servingコンポーネントにつ]]></summary>
+        <content type="html"><![CDATA[前回の記事でも紹介した通り、先日リリースされたApache Camel 4.10 LTSではAIモデルサービングに関する3つの新しいコンポーネントが追加されました。[1]TorchServeコンポーネントTensorFlow ServingコンポーネントKServeコンポーネント前回はTorchServeコンポーネントについて書いたので、今回はTensorFlow Servingコンポーネントについて紹介します。 TensorFlow ServingコンポーネントTensorFlow Servingは機械学習フレームワークのTensorFlowが提供するサービング機能...]]></content>
+        <author>
+            <name>佐藤 匡剛</name>
+        </author>
+        <published>2025-02-20T05:37:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Camel × AI ― サービングによる推論 #2: TensorFlow Serving | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/tadayosi/articles/6e168e1e752e43</id>
+        <link href="https://zenn.dev/tadayosi/articles/6e168e1e752e43"/>
+        <updated>2025-02-20T05:37:12.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でも紹介した通り、先日リリースされたApache Camel 4.10 LTSではAIモデルサービングに関する3つの新しいコンポーネントが追加されました。[1]TorchServeコンポーネントTensorFlow ServingコンポーネントKServeコンポーネント前回はTorchServeコンポーネントについて書いたので、今回はTensorFlow Servingコンポーネントにつ]]></summary>
+        <content type="html"><![CDATA[前回の記事でも紹介した通り、先日リリースされたApache Camel 4.10 LTSではAIモデルサービングに関する3つの新しいコンポーネントが追加されました。[1]TorchServeコンポーネントTensorFlow ServingコンポーネントKServeコンポーネント前回はTorchServeコンポーネントについて書いたので、今回はTensorFlow Servingコンポーネントについて紹介します。 TensorFlow ServingコンポーネントTensorFlow Servingは機械学習フレームワークのTensorFlowが提供するサービング機能...]]></content>
+        <author>
+            <name>佐藤 匡剛</name>
+        </author>
+        <published>2025-02-20T05:37:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIエージェントキャッチアップ #21 - HumanLayer」を開催しました | Generative Agents Tech Blog]]></title>
+        <id>https://blog.generative-agents.co.jp/entry/2025/02/20/140330</id>
+        <link href="https://blog.generative-agents.co.jp/entry/2025/02/20/140330"/>
+        <updated>2025-02-20T05:03:30.000Z</updated>
+        <summary type="html"><![CDATA[ジェネラティブエージェンツの大嶋です。 「AIエージェントキャッチアップ #21 - HumanLayer」という勉強会を開催しました。 generative-agents.connpass.com アーカイブ動画はこちらです。 www.youtube.com HumanLayer 今回は、「HumanLayer」について、公式ドキュメントを読んだり動かしたりしてみました。 HumanLayerの]]></summary>
+        <content type="html"><![CDATA[ジェネラティブエージェンツの大嶋です。 「AIエージェントキャッチアップ #21 - HumanLayer」という勉強会を開催しました。 generative-agents.connpass.com アーカイブ動画はこちらです。 www.youtube.com HumanLayer 今回は、「HumanLayer」について、公式ドキュメントを読んだり動かしたりしてみました。 HumanLayerのGitHubリポジトリはこちらです。 github.com 公式ドキュメントはこちらです。 www.humanlayer.dev 今回のポイント HumanLayerの概要 HumanLayerは、H…]]></content>
+        <published>2025-02-20T05:03:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xの最新AI「Grok 3」無料開放　推論モデルや「DeepSearch」も使える（制限あり） | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/20/news169.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/20/news169.html"/>
+        <updated>2025-02-20T04:21:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏率いる米xAIが、新型チャットAIアシスタント「Grok 3」を無料開放した。2月20日時点で、Xユーザーであれば有料プランに加入していなくても利用できる。回数制限はあるが、高度な推論機能やリサーチ機能「DeepSearch」も利用可能だ。]]></summary>
+        <content type="html"><![CDATA[イーロン・マスク氏率いる米xAIが、新型チャットAIアシスタント「Grok 3」を無料開放した。2月20日時点で、Xユーザーであれば有料プランに加入していなくても利用できる。回数制限はあるが、高度な推論機能やリサーチ機能「DeepSearch」も利用可能だ。]]></content>
+        <published>2025-02-20T04:21:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIでTwitterを運用！魅力的な投稿を簡単に作成する方法 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/ai78/articles/4fd1cef694c429</id>
+        <link href="https://zenn.dev/ai78/articles/4fd1cef694c429"/>
+        <updated>2025-02-20T03:59:41.000Z</updated>
+        <summary type="html"><![CDATA[AIを使ったTwitter投稿作成は、効率的かつ効果的な方法です。AIツールを活用することで、投稿内容のアイデア出しや文の構成、エンゲージメントを高める言葉選びが迅速に行えます。特に忙しい企業や個人にとって、AIは手間を省き、品質の高いコンテンツを短時間で作成できる強力なツールとなります。それでは詳しく紹介します。 AIツールの選定AIを使ってTwitterの投稿を作成するためには、まず適切なツー]]></summary>
+        <content type="html"><![CDATA[AIを使ったTwitter投稿作成は、効率的かつ効果的な方法です。AIツールを活用することで、投稿内容のアイデア出しや文の構成、エンゲージメントを高める言葉選びが迅速に行えます。特に忙しい企業や個人にとって、AIは手間を省き、品質の高いコンテンツを短時間で作成できる強力なツールとなります。それでは詳しく紹介します。 AIツールの選定AIを使ってTwitterの投稿を作成するためには、まず適切なツールを選ぶことが重要です。例えば、以下のようなツールがあります：ChatGPT：自然な言葉でツイートを作成でき、トピックに合わせた内容を生成できます。EX-AI：EX-AI向けに特...]]></content>
+        <author>
+            <name>ii-ai</name>
+        </author>
+        <published>2025-02-20T03:59:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIの悪用はどこまで進んでいる？　調査で分かったサイバー攻撃最新事情 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2502/20/news113.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2502/20/news113.html"/>
+        <updated>2025-02-20T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Picus Securityは最新の脅威分析レポート「Red Report 2025」を発表した。最近のサイバー攻撃の流行が細かく分析されている。マルウェアのトレンドやAIを悪用したサイバー攻撃の現実などが明らかになった。]]></summary>
+        <content type="html"><![CDATA[Picus Securityは最新の脅威分析レポート「Red Report 2025」を発表した。最近のサイバー攻撃の流行が細かく分析されている。マルウェアのトレンドやAIを悪用したサイバー攻撃の現実などが明らかになった。]]></content>
+        <published>2025-02-20T03:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリエイティブな仕事に正解はない──“AIとの雑談”は孤独を救うか？　「広告はスキップする時代」の働き方 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/19/news060.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/19/news060.html"/>
+        <updated>2025-02-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[クリエイティブディレクターとは一体どのような仕事か。その仕事は、AIによってどのように変化していくのか。博報堂／SIXのクリエイティブディレクター／ストラテジストである藤平達之さんが解説する。]]></summary>
+        <content type="html"><![CDATA[クリエイティブディレクターとは一体どのような仕事か。その仕事は、AIによってどのように変化していくのか。博報堂／SIXのクリエイティブディレクター／ストラテジストである藤平達之さんが解説する。]]></content>
+        <published>2025-02-20T03:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMS.txt: AI時代のWebサイト最適化ガイド | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/minedia/articles/llmtxt-in-action</id>
+        <link href="https://zenn.dev/minedia/articles/llmtxt-in-action"/>
+        <updated>2025-02-20T02:29:23.000Z</updated>
+        <summary type="html"><![CDATA[3行まとめ主要なLLMプラットフォームが対応し、効率的なサイト情報提供が可能になります。NotebookLMなどのツールを使って、サイトの情報を効果的に活用できます。自分のサイト2つをLLMS.txtに対応し、NotebookLMにナレッジとして組み入れて遊んでみました。 なぜLLMS.txtか？2024年末から注目度が上昇日本国内での認知度が向上主要LLMプラットフォームが積極的に対応Webサイ]]></summary>
+        <content type="html"><![CDATA[3行まとめ主要なLLMプラットフォームが対応し、効率的なサイト情報提供が可能になります。NotebookLMなどのツールを使って、サイトの情報を効果的に活用できます。自分のサイト2つをLLMS.txtに対応し、NotebookLMにナレッジとして組み入れて遊んでみました。 なぜLLMS.txtか？2024年末から注目度が上昇日本国内での認知度が向上主要LLMプラットフォームが積極的に対応Webサイトの新しい標準として確立しつつある自分が書いたblogのRAG用データとして使えそう LLMS.txtとはLLM向けの構造化されたWebサイト情報提供ファ...]]></content>
+        <author>
+            <name>Matsukura Yuki</name>
+        </author>
+        <published>2025-02-20T02:29:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertex AI Vector Search のハイブリッド検索を徹底解説：ベクトル検索の精度課題を克服する方法 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/cloud_ace/articles/vertex-ai-vector-search-hybrid-search</id>
+        <link href="https://zenn.dev/cloud_ace/articles/vertex-ai-vector-search-hybrid-search"/>
+        <updated>2025-02-20T02:03:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、クラウドエース 第三開発部の松本です。普段はデータ基盤や機械学習システムを構築したり、Google Cloud 認定トレーナーとしてトレーニングを提供しています。近年、RAG（Retrieval-Augmented Generation）などの技術活用において、ベクトル検索を用いた情報検索が行われることが多くなっています。しかし、ベクトル検索だけでは精度に課題が残ることがありま]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、クラウドエース 第三開発部の松本です。普段はデータ基盤や機械学習システムを構築したり、Google Cloud 認定トレーナーとしてトレーニングを提供しています。近年、RAG（Retrieval-Augmented Generation）などの技術活用において、ベクトル検索を用いた情報検索が行われることが多くなっています。しかし、ベクトル検索だけでは精度に課題が残ることがあります。そこで、従来のキーワード検索を組み合わせることで検索精度を向上させる「ハイブリッド検索」が注目されています。本記事では、Google Cloud の Vertex AI Vect...]]></content>
+        <author>
+            <name>クラウドエース株式会社</name>
+        </author>
+        <published>2025-02-20T02:03:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、ゲームのアイデア出し支援AIモデル「Muse」を発表 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/20/news149.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/20/news149.html"/>
+        <updated>2025-02-20T01:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは、ゲーム開発者向けのAIモデル「Muse」を発表した。7年分のゲームプレイデータでトレーニングされており、ゲームプレイを生成し、開発者を支援するとしている。]]></summary>
+        <content type="html"><![CDATA[Microsoftは、ゲーム開発者向けのAIモデル「Muse」を発表した。7年分のゲームプレイデータでトレーニングされており、ゲームプレイを生成し、開発者を支援するとしている。]]></content>
+        <published>2025-02-20T01:46:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔のホームビデオ、全部これで変換したいぞ。Topaz Video AIのDiffusionモデル「Project Starlight」のAI修復が効果抜群なので即課金した（CloseBox） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/20/4132.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/20/4132.html"/>
+        <updated>2025-02-20T01:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Topaz Video AIの新機能「Project Starlight」は、古いビデオを高品質に修復する優れたDiffusionモデルを採用。ユーザーは無料で試せ、ディテールが鮮明に再現される。]]></summary>
+        <content type="html"><![CDATA[Topaz Video AIの新機能「Project Starlight」は、古いビデオを高品質に修復する優れたDiffusionモデルを採用。ユーザーは無料で試せ、ディテールが鮮明に再現される。]]></content>
+        <published>2025-02-20T01:31:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIを“AIで”改善　Sakana AIが新技術「AI CUDA Engineer」発表　目指すは100万倍の効率化 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/20/news128.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/20/news128.html"/>
+        <updated>2025-02-20T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sakana AIは、新たな技術「AI CUDA Engineer」を発表した。AIモデルの開発や利用時にかかる計算処理を10～100倍高速化できるエージェントシステムだ。]]></summary>
+        <content type="html"><![CDATA[Sakana AIは、新たな技術「AI CUDA Engineer」を発表した。AIモデルの開発や利用時にかかる計算処理を10～100倍高速化できるエージェントシステムだ。]]></content>
+        <published>2025-02-20T01:30:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devin に Dependabot PR をレビューしてもらおう | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/leaner_dev/articles/20250218-devin-review-bump-prs</id>
+        <link href="https://zenn.dev/leaner_dev/articles/20250218-devin-review-bump-prs"/>
+        <updated>2025-02-20T01:29:28.000Z</updated>
+        <summary type="html"><![CDATA[リーナー開発チームの黒曜(@kokuyouwind)です。最近話題の AI ソフトウェアエンジニア、 Devin AI をリーナーでも使い始めました。いろいろ試してみた限り「めちゃくちゃ上手くタスクをこなしてくれるケース」と「びっくりするほど迷走するケース」の差が激しくてうまく使いこなすのには利用者側のノウハウが必要だなーと感じています。今回は試したなかでも、特にうまく動いており汎用性の高いものを]]></summary>
+        <content type="html"><![CDATA[リーナー開発チームの黒曜(@kokuyouwind)です。最近話題の AI ソフトウェアエンジニア、 Devin AI をリーナーでも使い始めました。いろいろ試してみた限り「めちゃくちゃ上手くタスクをこなしてくれるケース」と「びっくりするほど迷走するケース」の差が激しくてうまく使いこなすのには利用者側のノウハウが必要だなーと感じています。今回は試したなかでも、特にうまく動いており汎用性の高いものを記事にまとめます。 Dependabot PR のレビュー、意外と時間かかる問題依存ライブラリのバージョンを最新に保つため、 GitHub Dependabot など依存関係更新ツー...]]></content>
+        <author>
+            <name>黒曜</name>
+        </author>
+        <published>2025-02-20T01:29:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dockerfileの最適化やエラーの原因などの質問に答える「Docker AI Agent」β公開　Docker Desktopで利用可能に | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2502/20/news147.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2502/20/news147.html"/>
+        <updated>2025-02-20T01:21:00.000Z</updated>
+        <summary type="html"><![CDATA[米Docker社は、開発者がDockerに関する課題に直面したときの質問などに答えてくれる「Docker AI Agent」（プロジェクト名：Gordon）をβ公開したと発表しました。]]></summary>
+        <content type="html"><![CDATA[米Docker社は、開発者がDockerに関する課題に直面したときの質問などに答えてくれる「Docker AI Agent」（プロジェクト名：Gordon）をβ公開したと発表しました。]]></content>
+        <published>2025-02-20T01:21:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早期登録特典あり】8 月 5 日、6 日 Next Tokyo 東京ビッグサイトにて開催！ | Google Developers Japan]]></title>
+        <id>https://developers-jp.googleblog.com/2025/02/cloud-next-tokyo-25.html</id>
+        <link href="https://developers-jp.googleblog.com/2025/02/cloud-next-tokyo-25.html"/>
+        <updated>2025-02-20T01:01:00.001Z</updated>
+        <summary type="html"><![CDATA[クラウドと AI の未来を Next で体感しよう2025 年 8 月 5 日（火）、 6 日（水）に、旗艦イベント Google Cloud Next Tokyo を開催します。Next Tokyo は、ビジネス リーダー、イノベーター、エンジニアのためのクラウド カンファレンスです。最新の生成 AI はもちろん、進化する AI エージェントやセキュリティ、アプリ開発、 データベース、インフラ、]]></summary>
+        <content type="html"><![CDATA[クラウドと AI の未来を Next で体感しよう2025 年 8 月 5 日（火）、 6 日（水）に、旗艦イベント Google Cloud Next Tokyo を開催します。Next Tokyo は、ビジネス リーダー、イノベーター、エンジニアのためのクラウド カンファレンスです。最新の生成 AI はもちろん、進化する AI エージェントやセキュリティ、アプリ開発、 データベース、インフラ、データ分析、生産性とコラボレーションに関するアップデートと、実際に Google Cloud を導入・運用されているお客様の声を基調講演、ライブ セッション、展示やハンズオンなど、様々なプログラムを通してお届けします。公式サイトからご登録いただき、Google Cloud の最新技術を、ぜひ会場で体験してください。先着 1,000 名様に早期登録特典先着 1,000 名様に Google Cloud を試すための 100 ドル分のクーポンをプレゼントします。ぜひ、お早めに公式サイトからご登録ください！※クーポンの利用上限は 100 ドルです。上限を超えると課金されますのでご注意ください。※他の]]></content>
+        <published>2025-02-20T01:01:00.001Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、科学者の研究を助けるマルチエージェントAI「AI co-scientist」提供開始 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/aiplus/articles/2502/20/news143.html</id>
+        <link href="https://www.itmedia.co.jp/aiplus/articles/2502/20/news143.html"/>
+        <updated>2025-02-20T00:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、科学研究を加速させるための新AIシステム「AI co-scientist」を発表した。「Gemini 2.0」ベースで、複数の専門エージェントを使って仮説を生成、評価、洗練する。]]></summary>
+        <content type="html"><![CDATA[Googleは、科学研究を加速させるための新AIシステム「AI co-scientist」を発表した。「Gemini 2.0」ベースで、複数の専門エージェントを使って仮説を生成、評価、洗練する。]]></content>
+        <published>2025-02-20T00:18:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextToモバイルアプリなAI「a0.dev」を解説します！Expo(ReactNative)のアプリをAIが自動生成 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/aimasaou/articles/78a564b72ce6d0</id>
+        <link href="https://zenn.dev/aimasaou/articles/78a564b72ce6d0"/>
+        <updated>2025-02-20T00:01:05.000Z</updated>
+        <summary type="html"><![CDATA[スマホアプリ開発というと、通常は企画・設計から始まり、フロントエンド・バックエンドの実装、テスト、デプロイと、かなりの時間と労力がかかるイメージがありますよね。最近、人工知能（AI）の進化や開発ツールの高度化により、アプリ開発のハードルを一気に下げるサービスが続々と登場しています。その中でも今、注目を集めているのが 今回紹介する「a0.dev」 です。https://a0.dev/a0.dev は]]></summary>
+        <content type="html"><![CDATA[スマホアプリ開発というと、通常は企画・設計から始まり、フロントエンド・バックエンドの実装、テスト、デプロイと、かなりの時間と労力がかかるイメージがありますよね。最近、人工知能（AI）の進化や開発ツールの高度化により、アプリ開発のハードルを一気に下げるサービスが続々と登場しています。その中でも今、注目を集めているのが 今回紹介する「a0.dev」 です。https://a0.dev/a0.dev は Y Combinator（YC） から支援を受けており、テキストの指示（プロンプト）だけで、フル機能の React Native アプリが生成できる という画期的なプラットフォームです。...]]></content>
+        <author>
+            <name>まさお@AI駆動開発の鬼</name>
+        </author>
+        <published>2025-02-20T00:01:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextToモバイルアプリなAI「a0.dev」を解説します！Expo(ReactNative)のアプリをAIが自動生成 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/aimasaou/articles/78a564b72ce6d0</id>
+        <link href="https://zenn.dev/aimasaou/articles/78a564b72ce6d0"/>
+        <updated>2025-02-20T00:01:05.000Z</updated>
+        <summary type="html"><![CDATA[スマホアプリ開発というと、通常は企画・設計から始まり、フロントエンド・バックエンドの実装、テスト、デプロイと、かなりの時間と労力がかかるイメージがありますよね。最近、人工知能（AI）の進化や開発ツールの高度化により、アプリ開発のハードルを一気に下げるサービスが続々と登場しています。その中でも今、注目を集めているのが 今回紹介する「a0.dev」 です。https://a0.dev/a0.dev は]]></summary>
+        <content type="html"><![CDATA[スマホアプリ開発というと、通常は企画・設計から始まり、フロントエンド・バックエンドの実装、テスト、デプロイと、かなりの時間と労力がかかるイメージがありますよね。最近、人工知能（AI）の進化や開発ツールの高度化により、アプリ開発のハードルを一気に下げるサービスが続々と登場しています。その中でも今、注目を集めているのが 今回紹介する「a0.dev」 です。https://a0.dev/a0.dev は Y Combinator（YC） から支援を受けており、テキストの指示（プロンプト）だけで、フル機能の React Native アプリが生成できる という画期的なプラットフォームです。...]]></content>
+        <author>
+            <name>まさお@AI駆動開発の鬼</name>
+        </author>
+        <published>2025-02-20T00:01:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Audio をローカルで動かしてみたら、想像以上に大変だった話 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/aldagram_tech/articles/c5f28caceaa460</id>
+        <link href="https://zenn.dev/aldagram_tech/articles/c5f28caceaa460"/>
+        <updated>2025-02-20T00:00:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！KANNA の開発のお手伝いをしております、フリーランスエンジニアの len_prog です。最近、Stable Audio という機械学習を用いた音楽生成モデルに興味を持ちました。簡単なプロンプトを入力するだけで音楽を作成できるとのことで、ローカル環境で試してみることにしたのですが、セットアップには想像以上のハードルがありました。今回は、その環境構築と試行錯誤の記録をまとめてみます。]]></summary>
+        <content type="html"><![CDATA[こんにちは！KANNA の開発のお手伝いをしております、フリーランスエンジニアの len_prog です。最近、Stable Audio という機械学習を用いた音楽生成モデルに興味を持ちました。簡単なプロンプトを入力するだけで音楽を作成できるとのことで、ローカル環境で試してみることにしたのですが、セットアップには想像以上のハードルがありました。今回は、その環境構築と試行錯誤の記録をまとめてみます。 実行環境とセットアップ 環境MacBook Air M3 (2024)Python 3.9PyTorch (MPS)GradiotorchaudioHuggin...]]></content>
+        <author>
+            <name>len_prog</name>
+        </author>
+        <published>2025-02-20T00:00:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AI向けの機密データをクラウドで保管、オンデマンドでAIを利用可能に　富士通 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2502/20/news073.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2502/20/news073.html"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[富士通は2025年2月13日、クラウド型生成AIサービス「Fujitsu クラウドサービス Generative AI Platform」の提供を発表した。データの機密性を保ちながら、安全に生成AIを活用可能なプラットフォームとされている。]]></summary>
+        <content type="html"><![CDATA[富士通は2025年2月13日、クラウド型生成AIサービス「Fujitsu クラウドサービス Generative AI Platform」の提供を発表した。データの機密性を保ちながら、安全に生成AIを活用可能なプラットフォームとされている。]]></content>
+        <published>2025-02-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Runの手動スケーリングを解説 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/cloud-run-manual-scaling-explained</id>
+        <link href="https://blog.g-gen.co.jp/entry/cloud-run-manual-scaling-explained"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の佐々木です。当記事では、Cloud Run の手動スケーリング機能について解説します。 はじめに Cloud Run とは 注意事項 手動スケーリングの仕様 手動スケーリングとは サービスとリビジョンの設定 トラフィック分割への影響 サービスの無効化 手動スケーリングの使用 手動スケーリング設定時の料金 リクエストベースの課金の場合 インスタンスベースの課金の場合 スケジュールベース]]></summary>
+        <content type="html"><![CDATA[G-gen の佐々木です。当記事では、Cloud Run の手動スケーリング機能について解説します。 はじめに Cloud Run とは 注意事項 手動スケーリングの仕様 手動スケーリングとは サービスとリビジョンの設定 トラフィック分割への影響 サービスの無効化 手動スケーリングの使用 手動スケーリング設定時の料金 リクエストベースの課金の場合 インスタンスベースの課金の場合 スケジュールベースの自動スケーリング Cloud Scheduler の利用 自動スケーリングにおけるスケールのスケジューリング はじめに Cloud Run とは Cloud Run は Google Cloud の…]]></content>
+        <published>2025-02-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特徴量エンジニアリングの完全ガイド | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/datasciencekun/articles/803de311258a64</id>
+        <link href="https://zenn.dev/datasciencekun/articles/803de311258a64"/>
+        <updated>2025-02-19T23:55:41.000Z</updated>
+        <summary type="html"><![CDATA[datasciencekunのAI教材シリーズ(未経験OK)教材のターゲット層:初心者: Pythonとデータ分析の基本を学びたい人中級者: より高度な分析手法や機械学習を習得したい人レコメンド（推薦）エンジニア: レコメンデーションエンジンを作り、キャリアアップを目指したい人AI領域に携わりたい方はぜひ！datasciencekunのAI教材シリーズ有料相談コース(未経験OK)データ分析に携わり]]></summary>
+        <content type="html"><![CDATA[datasciencekunのAI教材シリーズ(未経験OK)教材のターゲット層:初心者: Pythonとデータ分析の基本を学びたい人中級者: より高度な分析手法や機械学習を習得したい人レコメンド（推薦）エンジニア: レコメンデーションエンジンを作り、キャリアアップを目指したい人AI領域に携わりたい方はぜひ！datasciencekunのAI教材シリーズ有料相談コース(未経験OK)データ分析に携わりたい方機械学習に携わりたい方レコメンド分野に携わりたい方以上の領域の不明点がある方ぜひ下記のコースへお申し込みください！データ分析、機械学習、レコメンドエンジニ...]]></content>
+        <author>
+            <name>データサイエンス君</name>
+        </author>
+        <published>2025-02-19T23:55:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速報記事を書くならNotebookLM Plusが便利（Google Tales） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/20/4131.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/20/4131.html"/>
+        <updated>2025-02-19T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[それにしても、ほぼ毎日AI関連のニュースが届きますね。私は普段、海外（主に米国）のIT系ニュースの速報をお届けする仕事をしているんですが、最近ではAI関連の速報を書かない日はほとんどありません。]]></summary>
+        <content type="html"><![CDATA[それにしても、ほぼ毎日AI関連のニュースが届きますね。私は普段、海外（主に米国）のIT系ニュースの速報をお届けする仕事をしているんですが、最近ではAI関連の速報を書かない日はほとんどありません。]]></content>
+        <published>2025-02-19T23:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホンダが目指す未来の水素社会のイメージを生成AI活用で視覚化 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://monoist.itmedia.co.jp/mn/articles/2502/20/news097.html</id>
+        <link href="https://monoist.itmedia.co.jp/mn/articles/2502/20/news097.html"/>
+        <updated>2025-02-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Final Aimはホンダの水素事業開発部門に向けて、生成AIを活用した事業ビジョンデザインの支援を実施した。時間の要するプロセスを大幅に短縮し、高度なビジュアルやコンセプトを短期間で具体化したという。]]></summary>
+        <content type="html"><![CDATA[Final Aimはホンダの水素事業開発部門に向けて、生成AIを活用した事業ビジョンデザインの支援を実施した。時間の要するプロセスを大幅に短縮し、高度なビジュアルやコンセプトを短期間で具体化したという。]]></content>
+        <published>2025-02-19T23:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16e 発表。9万9800円からの最安・最新世代 iPhone、Apple C1チップ初搭載で無印16超の長時間駆動 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/20/4130.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/20/4130.html"/>
+        <updated>2025-02-19T22:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Appleが廉価版 iPhoneの新製品、iPhone SE (第4世代)を発表しました。]]></summary>
+        <content type="html"><![CDATA[Appleが廉価版 iPhoneの新製品、iPhone SE (第4世代)を発表しました。]]></content>
+        <published>2025-02-19T22:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone 15でよくね？」──“約10万円の廉価モデル”iPhone 16eは高い？　発表を見たユーザーの反応 | ITmedia AI＋ 最新記事一覧]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2502/20/news131.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2502/20/news131.html"/>
+        <updated>2025-02-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「iPhone 15でよくね？」──米Appleがに発表した新型スマートフォン「iPhone 16e」の価格について、発表を見たユーザーからさまざまな声が上がっている。]]></summary>
+        <content type="html"><![CDATA[「iPhone 15でよくね？」──米Appleがに発表した新型スマートフォン「iPhone 16e」の価格について、発表を見たユーザーからさまざまな声が上がっている。]]></content>
+        <published>2025-02-19T22:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Workers AI 使ってみた「画像インペインティング編」 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/toraco/articles/77ca00c54c1b56</id>
+        <link href="https://zenn.dev/toraco/articles/77ca00c54c1b56"/>
+        <updated>2025-02-19T16:09:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは、いけがわです。今回は画像の一部を変更できる Stable Diffusion Inpainting モデル（stable-diffusion-v1-5-inpainting）を使用してみました。インペインティングは、画像内の特定部分に対して指示した変換（たとえば「犬をライオンに変える」など）を行う技術で、マスク画像を使って変換対象を指定する点が特徴です。 前提条件この記事を進め]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは、いけがわです。今回は画像の一部を変更できる Stable Diffusion Inpainting モデル（stable-diffusion-v1-5-inpainting）を使用してみました。インペインティングは、画像内の特定部分に対して指示した変換（たとえば「犬をライオンに変える」など）を行う技術で、マスク画像を使って変換対象を指定する点が特徴です。 前提条件この記事を進めるにあたり、以下の準備が必要です。Cloudflare アカウントWorkers AI の利用に必須。対象のモデルが有効になっているか確認してください。Node.js...]]></content>
+        <author>
+            <name>ikechan</name>
+        </author>
+        <published>2025-02-19T16:09:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentryを使ったLLM監視 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/fitness_densuke/articles/sentry_llm_monitoring</id>
+        <link href="https://zenn.dev/fitness_densuke/articles/sentry_llm_monitoring"/>
+        <updated>2025-02-19T16:06:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに大規模言語モデル (LLM) は膨大なテキストデータをもとに学習される技術で、自然言語を巧みに処理できる点が特長です。近年では、あらゆる分野でLLMの導入が進み、モデルのパフォーマンスを常に確認するモニタリングが非常に重要になっています。モニタリングを行うことで、ユーザーの求める回答が返っているかを評価し、運用ミスによるリスクを低減することが可能です。本記事では、LLMモニタリングの概要と]]></summary>
+        <content type="html"><![CDATA[はじめに大規模言語モデル (LLM) は膨大なテキストデータをもとに学習される技術で、自然言語を巧みに処理できる点が特長です。近年では、あらゆる分野でLLMの導入が進み、モデルのパフォーマンスを常に確認するモニタリングが非常に重要になっています。モニタリングを行うことで、ユーザーの求める回答が返っているかを評価し、運用ミスによるリスクを低減することが可能です。本記事では、LLMモニタリングの概要と、Sentryを活用したLLMの監視について解説します。 LLMモニタリングとはLLMモニタリングとは、大規模言語モデルの動作や成果物をモニタリングし、モデルが本来の目的を満た...]]></content>
+        <author>
+            <name>Tamtam</name>
+        </author>
+        <published>2025-02-19T16:06:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentryを使ったLLM監視 | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/fitness_densuke/articles/sentry_llm_monitoring</id>
+        <link href="https://zenn.dev/fitness_densuke/articles/sentry_llm_monitoring"/>
+        <updated>2025-02-19T16:06:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに大規模言語モデル (LLM) は膨大なテキストデータをもとに学習される技術で、自然言語を巧みに処理できる点が特長です。近年では、あらゆる分野でLLMの導入が進み、モデルのパフォーマンスを常に確認するモニタリングが非常に重要になっています。モニタリングを行うことで、ユーザーの求める回答が返っているかを評価し、運用ミスによるリスクを低減することが可能です。本記事では、LLMモニタリングの概要と]]></summary>
+        <content type="html"><![CDATA[はじめに大規模言語モデル (LLM) は膨大なテキストデータをもとに学習される技術で、自然言語を巧みに処理できる点が特長です。近年では、あらゆる分野でLLMの導入が進み、モデルのパフォーマンスを常に確認するモニタリングが非常に重要になっています。モニタリングを行うことで、ユーザーの求める回答が返っているかを評価し、運用ミスによるリスクを低減することが可能です。本記事では、LLMモニタリングの概要と、Sentryを活用したLLMの監視について解説します。 LLMモニタリングとはLLMモニタリングとは、大規模言語モデルの動作や成果物をモニタリングし、モデルが本来の目的を満た...]]></content>
+        <author>
+            <name>Tamtam</name>
+        </author>
+        <published>2025-02-19T16:06:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“世界最薄”折りたたみスマホ「OPPO Find N5」がアップルのアレよりキニナル（スマホ沼） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/20/4129.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/20/4129.html"/>
+        <updated>2025-02-19T15:44:14.000Z</updated>
+        <summary type="html"><![CDATA[OPPOは2月18日19時（現地時間）、シンガポールで新製品発表会を開催します。今回発表されるモデルは折りたたみスマートフォンの最新機種「Find N5」です。]]></summary>
+        <content type="html"><![CDATA[OPPOは2月18日19時（現地時間）、シンガポールで新製品発表会を開催します。今回発表されるモデルは折りたたみスマートフォンの最新機種「Find N5」です。]]></content>
+        <published>2025-02-19T15:44:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilotを最強にする拡張機能4選 | Zennの「AI」のフィード]]></title>
+        <id>https://zenn.dev/sqer/articles/1535f0a7d2a9b8</id>
+        <link href="https://zenn.dev/sqer/articles/1535f0a7d2a9b8"/>
+        <updated>2025-02-19T15:07:32.000Z</updated>
+        <summary type="html"><![CDATA[GitHubをこよなく愛するhikae(@0xhikae)です。VSCodeとGitHub Copilotはextensibleな設計がされていて、うまく使えば最強のCoding Agentです。世の中はAI Agentの流行でいろんなツールに驚いている頃かと思いますが、そんな人たちも「GitHub Copilotでいいんじゃない？」って思えるような最先端の拡張機能を集めてきました。 1【coge]]></summary>
+        <content type="html"><![CDATA[GitHubをこよなく愛するhikae(@0xhikae)です。VSCodeとGitHub Copilotはextensibleな設計がされていて、うまく使えば最強のCoding Agentです。世の中はAI Agentの流行でいろんなツールに驚いている頃かと思いますが、そんな人たちも「GitHub Copilotでいいんじゃない？」って思えるような最先端の拡張機能を集めてきました。 1【cogent】ひと足先にAgentを実装https://marketplace.visualstudio.com/items?itemName=kturung.cogentCogentはGi...]]></content>
+        <author>
+            <name>hikae</name>
+        </author>
+        <published>2025-02-19T15:07:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三つ折りスマホ「Mate XT Ultimate Design」グローバル版を店頭でチェック！ グーグル入ってる？（スマホ沼） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4128.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4128.html"/>
+        <updated>2025-02-19T09:20:18.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイの三つ折りスマホ「Mate XT Ultimate Design」がグローバルデビュー。価格は約56万円で、アジア各国で先行販売される可能性があり、日本市場への展開も期待されている。]]></summary>
+        <content type="html"><![CDATA[ファーウェイの三つ折りスマホ「Mate XT Ultimate Design」がグローバルデビュー。価格は約56万円で、アジア各国で先行販売される可能性があり、日本市場への展開も期待されている。]]></content>
+        <published>2025-02-19T09:20:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次期モデル「GPT-4.5」リリース：遂に登場する「GPT-5」の未来像 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/renue/articles/181a8e7ca544d3</id>
+        <link href="https://zenn.dev/renue/articles/181a8e7ca544d3"/>
+        <updated>2025-02-19T08:30:44.000Z</updated>
+        <summary type="html"><![CDATA[次期モデル「GPT-4.5」リリース！ そして遂に登場する「GPT-5」の未来像を徹底解説大規模言語モデル（LLM）の進化は日進月歩で、近々「GPT-4.5」のリリースが予告されています。また、Oシリーズと呼ばれていたモデル群の統合や、次世代モデル「GPT-5」の登場など、続々と新情報がリリース予定です。本記事では、これからのGPTモデルの展望と機能概要を整理し、活用のポイントを解説していきます。]]></summary>
+        <content type="html"><![CDATA[次期モデル「GPT-4.5」リリース！ そして遂に登場する「GPT-5」の未来像を徹底解説大規模言語モデル（LLM）の進化は日進月歩で、近々「GPT-4.5」のリリースが予告されています。また、Oシリーズと呼ばれていたモデル群の統合や、次世代モデル「GPT-5」の登場など、続々と新情報がリリース予定です。本記事では、これからのGPTモデルの展望と機能概要を整理し、活用のポイントを解説していきます。 目次GPT-4.5 リリース概要OシリーズのGPT統合GPT-5 無料ユーザー無制限の衝撃GPT-5 Plus / GPT-5 Pro とは音声・検索・Deep Resea...]]></content>
+        <author>
+            <name>renue</name>
+        </author>
+        <published>2025-02-19T08:30:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChainとGPT-4oで作る商品選定AIエージェント（前編） ~Function Calling~ | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/msmtec/articles/function-calling</id>
+        <link href="https://zenn.dev/msmtec/articles/function-calling"/>
+        <updated>2025-02-19T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[はじめに大規模言語モデル (LLM) がデータや計算ツールを活用して答えるしくみを、Function calling という機能を使って作りました。この記事では、まず背景をご紹介し、GPT-4o の API と langChain を使った実装方法や tips を解説します。記事が長くなったので、本記事で Function Calling について扱い、後編でエージェント化の部分を解説したいと思い]]></summary>
+        <content type="html"><![CDATA[はじめに大規模言語モデル (LLM) がデータや計算ツールを活用して答えるしくみを、Function calling という機能を使って作りました。この記事では、まず背景をご紹介し、GPT-4o の API と langChain を使った実装方法や tips を解説します。記事が長くなったので、本記事で Function Calling について扱い、後編でエージェント化の部分を解説したいと思います。 目指す世界観例えば、EC サイトで部品を探すときに、長さ700mmで100kgの装置を載せられるアルミフレームはどれ？と聞いたら以下のアルミフレームは、長さ700m...]]></content>
+        <author>
+            <name>jwski</name>
+        </author>
+        <published>2025-02-19T08:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「rokadoc」を使ってRAGを試してみる | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/timoneko/articles/fc2aa654af9fc7</id>
+        <link href="https://zenn.dev/timoneko/articles/fc2aa654af9fc7"/>
+        <updated>2025-02-19T07:29:23.000Z</updated>
+        <summary type="html"><![CDATA[rokadocNTT Comから出ている非構造化データを生成AIに適した構造化データに変えるツール↓ニュースリリースhttps://www.ntt.com/about-us/press-releases/news/article/2025/0219_2.htmlrokadoc(public beta版)のお試しサイトからRAGを試す。(クォータ制限上限がある。)↓お試しサイトhttps://rok]]></summary>
+        <content type="html"><![CDATA[rokadocNTT Comから出ている非構造化データを生成AIに適した構造化データに変えるツール↓ニュースリリースhttps://www.ntt.com/about-us/press-releases/news/article/2025/0219_2.htmlrokadoc(public beta版)のお試しサイトからRAGを試す。(クォータ制限上限がある。)↓お試しサイトhttps://rokadoc.ntt.com/データセットはJdocQAを利用することにする。ドキュメントをアップロードすると、解析待ちになって、テキスト構造化(結果全体としてはjson)にし...]]></content>
+        <author>
+            <name>timoneko</name>
+        </author>
+        <published>2025-02-19T07:29:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SunoのAI編集機能がDAW不要に？　Aメロ、サビなどの構造認識し部分置換・フェードアウトも超簡単（CloseBox） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4127.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4127.html"/>
+        <updated>2025-02-19T07:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Suno、Udio、Riffusion、そして最近ではYuEというオープンソースソフトも登場してきたAI作曲ソフトですが、完成形を作るのには向いていても、部分的な修正は苦手です。その状況がいい方に変わってきました。]]></summary>
+        <content type="html"><![CDATA[Suno、Udio、Riffusion、そして最近ではYuEというオープンソースソフトも登場してきたAI作曲ソフトですが、完成形を作るのには向いていても、部分的な修正は苦手です。その状況がいい方に変わってきました。]]></content>
+        <published>2025-02-19T07:25:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MapQuest、メキシコ湾を好きな名前に変えられる地図ページを公開 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4126.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4126.html"/>
+        <updated>2025-02-19T07:07:07.000Z</updated>
+        <summary type="html"><![CDATA[米国のオンライン地図サービスMapQuestは「メキシコ湾」を「アメリカ湾」に変更するというトランプ大統領令を揶揄し、好きな名前を付けて表示できる地図ページを公開しました。]]></summary>
+        <content type="html"><![CDATA[米国のオンライン地図サービスMapQuestは「メキシコ湾」を「アメリカ湾」に変更するというトランプ大統領令を揶揄し、好きな名前を付けて表示できる地図ページを公開しました。]]></content>
+        <published>2025-02-19T07:07:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E2B Desktop Sandbox: GUI操作Agentのための安全な仮想環境 | TECH BLOG | 株式会社AI Shift]]></title>
+        <id>https://www.ai-shift.co.jp/?post_type=techblog&amp;amp;p=5515</id>
+        <link href="https://www.ai-shift.co.jp/techblog/5515"/>
+        <updated>2025-02-19T07:03:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！AIチームの戸田です。 近年、様々な作業の自動化を目的としたAI Agent（以下、Agent）が注目を集めています。特に、GUIを操作するAgentは、ユーザーインターフェースを介したタスクの自動化を可能に […]投稿 E2B Desktop Sandbox: GUI操作Agentのための安全な仮想環境 は 株式会社AI Shift に最初に表示されました。]]></summary>
+        <content type="html"><![CDATA[こんにちは！AIチームの戸田です。 近年、様々な作業の自動化を目的としたAI Agent（以下、Agent）が注目を集めています。特に、GUIを操作するAgentは、ユーザーインターフェースを介したタスクの自動化を可能に […]投稿 E2B Desktop Sandbox: GUI操作Agentのための安全な仮想環境 は 株式会社AI Shift に最初に表示されました。]]></content>
+        <author>
+            <name>戸田隆道</name>
+        </author>
+        <published>2025-02-19T07:03:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIDに替わる評価指標？ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/fmuuly/articles/e53cbed26fa927</id>
+        <link href="https://zenn.dev/fmuuly/articles/e53cbed26fa927"/>
+        <updated>2025-02-19T06:03:58.000Z</updated>
+        <summary type="html"><![CDATA[Rethinking FID: Towards a Better Evaluation Metric for Image Generation (CVPR2024)画像生成でお馴染みFIDですが, 既に発表から7年の時が経過しています. 未だに現役の評価指標ですが, 「FID低いけど生成品質微妙だな...？」みたいなこともあるかなと思います. あまり例を挙げるのは失礼ではないかなとも思いますが, ]]></summary>
+        <content type="html"><![CDATA[Rethinking FID: Towards a Better Evaluation Metric for Image Generation (CVPR2024)画像生成でお馴染みFIDですが, 既に発表から7年の時が経過しています. 未だに現役の評価指標ですが, 「FID低いけど生成品質微妙だな...？」みたいなこともあるかなと思います. あまり例を挙げるのは失礼ではないかなとも思いますが, 一応例を挙げると2022年に発表されたSwinv2-ImagenはFIDがImagenより低いことを主張していますが, 定性的結果を見る感じだと果たしてそうだろうかと個人的には思います (...]]></content>
+        <author>
+            <name>fmuuly</name>
+        </author>
+        <published>2025-02-19T06:03:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTでPDFをコード化しSlidevで魅力的なスライドを作成する方法 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/yukamiya/articles/23ea252db2353d</id>
+        <link href="https://zenn.dev/yukamiya/articles/23ea252db2353d"/>
+        <updated>2025-02-19T04:35:45.000Z</updated>
+        <summary type="html"><![CDATA[プレゼン資料を作成する際、既存のPDFからSlidev用のスライドを作成したいことがあります。しかし、手動でスライドを作り直すのは時間がかかるため、ChatGPTを活用して自動化するのが便利です。本記事では、ChatGPTを使ってPDFをMarkdownコード化し、Slidevでスライドを作成する手順を詳しく解説します。 1. ChatGPTにPDFをアップロードするChatGPTにはファイルアッ]]></summary>
+        <content type="html"><![CDATA[プレゼン資料を作成する際、既存のPDFからSlidev用のスライドを作成したいことがあります。しかし、手動でスライドを作り直すのは時間がかかるため、ChatGPTを活用して自動化するのが便利です。本記事では、ChatGPTを使ってPDFをMarkdownコード化し、Slidevでスライドを作成する手順を詳しく解説します。 1. ChatGPTにPDFをアップロードするChatGPTにはファイルアップロード機能があり、PDFを直接アップロードすることで内容をMarkdown形式に変換してもらうことができます。今回使ったスライドはこれ！https://speakerdeck.c...]]></content>
+        <author>
+            <name>Yu Kamiya</name>
+        </author>
+        <published>2025-02-19T04:35:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QR決済に対応、電車にも乗れるリストバンド「HUAWEI Band 10」が登場 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4125.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4125.html"/>
+        <updated>2025-02-19T03:45:02.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイが発表した「HUAWEI Band 10」はQR決済に対応し、日本でも発売予定。約100種類の運動に対応し、最大14日間バッテリー持続。低価格で便利なウェアラブルデバイスです。]]></summary>
+        <content type="html"><![CDATA[ファーウェイが発表した「HUAWEI Band 10」はQR決済に対応し、日本でも発売予定。約100種類の運動に対応し、最大14日間バッテリー持続。低価格で便利なウェアラブルデバイスです。]]></content>
+        <published>2025-02-19T03:45:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero Shot Learning (ZSL)とは？ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/nakano_teppei/articles/17b5d58a78fcd9</id>
+        <link href="https://zenn.dev/nakano_teppei/articles/17b5d58a78fcd9"/>
+        <updated>2025-02-19T03:32:12.000Z</updated>
+        <summary type="html"><![CDATA[人工知能（AI）と機械学習（ML）の分野では、新しい概念やタスクを学習する能力が研究されてきました。その中で、「Zero Shot Learning（ZSL）」は、学習データに含まれていないクラス（ラベル）を認識できる能力を指します。従来の機械学習モデルでは、すべてのクラスに対して事前に十分な学習データを提供する必要がありますが、ZSLでは「見たことのない」データにも適用可能です。本記事では、Ze]]></summary>
+        <content type="html"><![CDATA[人工知能（AI）と機械学習（ML）の分野では、新しい概念やタスクを学習する能力が研究されてきました。その中で、「Zero Shot Learning（ZSL）」は、学習データに含まれていないクラス（ラベル）を認識できる能力を指します。従来の機械学習モデルでは、すべてのクラスに対して事前に十分な学習データを提供する必要がありますが、ZSLでは「見たことのない」データにも適用可能です。本記事では、Zero Shot Learningの概念、仕組み、応用例、関連技術、課題、そして将来展望について詳しく解説します。Zero Shot Learningの概念なぜZero Shot Learn...]]></content>
+        <author>
+            <name>中野哲平~dev日記</name>
+        </author>
+        <published>2025-02-19T03:32:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強化学習「GRPO」をCartPoleタスクで実装しながら解説 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/mkj/articles/10dfe35cd32026</id>
+        <link href="https://zenn.dev/mkj/articles/10dfe35cd32026"/>
+        <updated>2025-02-19T02:50:01.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek-R1 で有名になった「GRPO」を CartPoleタスクに対して実装しながら解説します（Google Colab上にて）。Pendulum タスク版の実装も用意しています。強化学習手法「GRPO（Group Relative Policy Optimization）」を実装面から理解したい方におすすめの内容です。実装には PyTorchを使用しています。計算実行時間はGoogl]]></summary>
+        <content type="html"><![CDATA[DeepSeek-R1 で有名になった「GRPO」を CartPoleタスクに対して実装しながら解説します（Google Colab上にて）。Pendulum タスク版の実装も用意しています。強化学習手法「GRPO（Group Relative Policy Optimization）」を実装面から理解したい方におすすめの内容です。実装には PyTorchを使用しています。計算実行時間はGoogle Colabの CPU環境で約7分です。今回はGPUは使用していません。（執筆：小川 雄太郎）。!本記事の読者想定DeepSeek-R1で有名になった強化学習手法GRPOを実...]]></content>
+        <author>
+            <name>小川 雄太郎</name>
+        </author>
+        <published>2025-02-19T02:50:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強化学習「GRPO」をCartPoleタスクで実装しながら解説 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/mkj/articles/10dfe35cd32026</id>
+        <link href="https://zenn.dev/mkj/articles/10dfe35cd32026"/>
+        <updated>2025-02-19T02:50:01.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek-R1 で有名になった「GRPO」を CartPoleタスクに対して実装しながら解説します（Google Colab上にて）。Pendulum タスク版の実装も用意しています。強化学習手法「GRPO（Group Relative Policy Optimization）」を実装面から理解したい方におすすめの内容です。実装には PyTorchを使用しています。計算実行時間はGoogl]]></summary>
+        <content type="html"><![CDATA[DeepSeek-R1 で有名になった「GRPO」を CartPoleタスクに対して実装しながら解説します（Google Colab上にて）。Pendulum タスク版の実装も用意しています。強化学習手法「GRPO（Group Relative Policy Optimization）」を実装面から理解したい方におすすめの内容です。実装には PyTorchを使用しています。計算実行時間はGoogle Colabの CPU環境で約7分です。今回はGPUは使用していません。（執筆：小川 雄太郎）。!本記事の読者想定DeepSeek-R1で有名になった強化学習手法GRPOを実...]]></content>
+        <author>
+            <name>小川 雄太郎</name>
+        </author>
+        <published>2025-02-19T02:50:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強化学習「GRPO」をCartPoleタスクで実装しながら解説 | 松尾研究所テックブログのフィード]]></title>
+        <id>https://zenn.dev/mkj/articles/10dfe35cd32026</id>
+        <link href="https://zenn.dev/mkj/articles/10dfe35cd32026"/>
+        <updated>2025-02-19T02:50:01.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek-R1 で有名になった「GRPO」を CartPoleタスクに対して実装しながら解説します（Google Colab上にて）。Pendulum タスク版の実装も用意しています。強化学習手法「GRPO（Group Relative Policy Optimization）」を実装面から理解したい方におすすめの内容です。実装には PyTorchを使用しています。計算実行時間はGoogl]]></summary>
+        <content type="html"><![CDATA[DeepSeek-R1 で有名になった「GRPO」を CartPoleタスクに対して実装しながら解説します（Google Colab上にて）。Pendulum タスク版の実装も用意しています。強化学習手法「GRPO（Group Relative Policy Optimization）」を実装面から理解したい方におすすめの内容です。実装には PyTorchを使用しています。計算実行時間はGoogle Colabの CPU環境で約7分です。今回はGPUは使用していません。（執筆：小川 雄太郎）。!本記事の読者想定DeepSeek-R1で有名になった強化学習手法GRPOを実...]]></content>
+        <author>
+            <name>小川 雄太郎</name>
+        </author>
+        <published>2025-02-19T02:50:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Ringで、健康以外の利用価値を考える（石野純也） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4124.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4124.html"/>
+        <updated>2025-02-19T02:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Galaxyシリーズ初の指輪型デバイスとして注目を集めている「Galaxy Ring」が、ついに日本に上陸しました。]]></summary>
+        <content type="html"><![CDATA[Galaxyシリーズ初の指輪型デバイスとして注目を集めている「Galaxy Ring」が、ついに日本に上陸しました。]]></content>
+        <published>2025-02-19T02:00:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USBメモリーの元祖!？　直接USBに挿せるフラッシュメモリードライブ「ThumbDrive」（8～512MB、2000年頃～）：ロストメモリーズ File042 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4123.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4123.html"/>
+        <updated>2025-02-19T01:13:57.000Z</updated>
+        <summary type="html"><![CDATA[「ThumbDrive」は、2000年頃に登場したUSB接続のフラッシュメモリー。直接PCのUSBに差し込んで使える手軽さが特徴だが、ドライバーが必要で高価だったため、広くは普及しなかった。メジャーにはなれなかったが、USBメモリーの元祖といえる。]]></summary>
+        <content type="html"><![CDATA[「ThumbDrive」は、2000年頃に登場したUSB接続のフラッシュメモリー。直接PCのUSBに差し込んで使える手軽さが特徴だが、ドライバーが必要で高価だったため、広くは普及しなかった。メジャーにはなれなかったが、USBメモリーの元祖といえる。]]></content>
+        <published>2025-02-19T01:13:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevinにVitest移行させたら数分で5000円溶けた [人間がやったほうが安い] | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/hand_dot/articles/38f5bfaf80aab5</id>
+        <link href="https://zenn.dev/hand_dot/articles/38f5bfaf80aab5"/>
+        <updated>2025-02-19T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[これは5000円かかっても何も進捗が得られなかったが結構悔しかったのでせめてもの抵抗でPRにコメントしたところです。この記事は最近話題のAIエンジニア「Devin」 を使ってライブラリ開発をしてみた体験談です。Devinのセットアップから始まり、上手く行ったケースnpmライブラリを公開しドキュメントを書いてもらった = 3300円💸💸何も成果が得られなかったケーステストフレームワークを変えようとし]]></summary>
+        <content type="html"><![CDATA[これは5000円かかっても何も進捗が得られなかったが結構悔しかったのでせめてもの抵抗でPRにコメントしたところです。この記事は最近話題のAIエンジニア「Devin」 を使ってライブラリ開発をしてみた体験談です。Devinのセットアップから始まり、上手く行ったケースnpmライブラリを公開しドキュメントを書いてもらった = 3300円💸💸何も成果が得られなかったケーステストフレームワークを変えようとして失敗 = 5000円💸💸💸などを紹介しています。OSS上での作業だったためPRのリンクなども載せていますので、Devinの修正など自由にご覧いただけます。ぜひ最後...]]></content>
+        <author>
+            <name>Kyohei Fukuda</name>
+        </author>
+        <published>2025-02-19T01:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AIエージェント】Hugging Faceのエージェントコースを学んでみる | Zennの「LLM」のフィード]]></title>
+        <id>https://zenn.dev/ryoryo34/articles/0eaeff9ae27550</id>
+        <link href="https://zenn.dev/ryoryo34/articles/0eaeff9ae27550"/>
+        <updated>2025-02-19T00:36:22.000Z</updated>
+        <summary type="html"><![CDATA[はじめに最近膝がむずむずしてなかなか眠れない、ノベルワークスのりょうちん（ryotech34）です。今回は、AI開発プラットフォームとして有名なHugging Faceで最近スタートしたAgent Courseについて簡単にまとめてみました。https://huggingface.co/learn/agents-course/unit0/introduction Agent CourseとはAge]]></summary>
+        <content type="html"><![CDATA[はじめに最近膝がむずむずしてなかなか眠れない、ノベルワークスのりょうちん（ryotech34）です。今回は、AI開発プラットフォームとして有名なHugging Faceで最近スタートしたAgent Courseについて簡単にまとめてみました。https://huggingface.co/learn/agents-course/unit0/introduction Agent CourseとはAgent Courseとは、その名の通りAIエージェントについて体系立てて学べるコースです。ユニットごとに講座が公開され、ステップバイステップでAIエージェントを学ぶことが出来ます...]]></content>
+        <author>
+            <name>ryoryo34</name>
+        </author>
+        <published>2025-02-19T00:36:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go】Go1.24が来た！ツールディレクティブでGo製CLIツールの管理が楽に | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=54473</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/54473/"/>
+        <updated>2025-02-19T00:20:40.000Z</updated>
+        <summary type="html"><![CDATA[目次 はじめに 対象読者 Go 1.24の変更内容 期待の「ツールディレクティブ」 終わりに はじめ ...]]></summary>
+        <content type="html"><![CDATA[目次 はじめに 対象読者 Go 1.24の変更内容 期待の「ツールディレクティブ」 終わりに はじめ ...]]></content>
+        <author>
+            <name>みねしん</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="Ameba"/>
+        <category label="Golang"/>
+        <category label="バックエンド"/>
+        <published>2025-02-19T00:20:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini APIを定額利用できるProvisioned Throughputを解説 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/gen-ai-provisioned-throughput-explained</id>
+        <link href="https://blog.g-gen.co.jp/entry/gen-ai-provisioned-throughput-explained"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-genの杉村です。Vertex API 経由での Gemini API を定額で利用できる Provisioned Throughput を解説します。 概要 Provisioned Throughput とは サポートされるモデル 購入すべきユースケース 購入方法と料金 GSU（Generative AI Scale Unit） 購入期間 購入方法と料金 使用方法 自動適用 超過したスループ]]></summary>
+        <content type="html"><![CDATA[G-genの杉村です。Vertex API 経由での Gemini API を定額で利用できる Provisioned Throughput を解説します。 概要 Provisioned Throughput とは サポートされるモデル 購入すべきユースケース 購入方法と料金 GSU（Generative AI Scale Unit） 購入期間 購入方法と料金 使用方法 自動適用 超過したスループットの扱い 明示的に従量課金を指定 スループットのモニタリング 考慮事項 ファインチューンされたモデル その他の考慮事項 概要 Provisioned Throughput とは Provisione…]]></content>
+        <published>2025-02-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画面に光が写り込まないHUAWEI MatePad Proに惚れた話（日本で出してお願い） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/19/4122.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/19/4122.html"/>
+        <updated>2025-02-18T22:45:02.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイが2025年2月18日にマレーシアで開催したグローバル向け新製品発表イベントで、新タブレット「HUAWEI MatePad Pro 13.2」を披露しました。]]></summary>
+        <content type="html"><![CDATA[ファーウェイが2025年2月18日にマレーシアで開催したグローバル向け新製品発表イベントで、新タブレット「HUAWEI MatePad Pro 13.2」を披露しました。]]></content>
+        <published>2025-02-18T22:45:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok API（Grok 2）で遊んでみた！【Elyza Tasks 100】 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/asap/articles/6aa01bde32163d</id>
+        <link href="https://zenn.dev/asap/articles/6aa01bde32163d"/>
+        <updated>2025-02-18T18:24:26.000Z</updated>
+        <summary type="html"><![CDATA[はじめにぬこぬこさんが有益な記事を出してくださり、私のモチベーションが高まったので遊んでみました。https://zenn.dev/schroneko/articles/de3a8f574e9ea4https://x.com/schroneko毎月150ドルの無料クレジットは圧倒的太っ腹すぎる・・・共有してくださって感謝です。!ぬこぬこさんの記事でも、注意喚起されておりますが、無料クレジットをもら]]></summary>
+        <content type="html"><![CDATA[はじめにぬこぬこさんが有益な記事を出してくださり、私のモチベーションが高まったので遊んでみました。https://zenn.dev/schroneko/articles/de3a8f574e9ea4https://x.com/schroneko毎月150ドルの無料クレジットは圧倒的太っ腹すぎる・・・共有してくださって感謝です。!ぬこぬこさんの記事でも、注意喚起されておりますが、無料クレジットをもらったチームの利用データは学習に利用されますので、注意してください。（あくまで個人利用されることをお勧めします）詳しくは、ぬこぬこさんの記事をご覧ください。 やったこと...]]></content>
+        <author>
+            <name>asap</name>
+        </author>
+        <published>2025-02-18T18:24:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【論文備忘録】人間の言語は生成AIフレンドリーではないから新言語を作ってみた件について- Google DeepMind | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/yellowbanana/articles/da23e62b556328</id>
+        <link href="https://zenn.dev/yellowbanana/articles/da23e62b556328"/>
+        <updated>2025-02-18T11:50:20.000Z</updated>
+        <summary type="html"><![CDATA[はじめにヤマダと申します。情報科学と言語学を大学で学び、記号論、記号創発論、（記号と人間・テクノロジーの関係）について思考・探究している僕が、気になる論文について私見多めにまとめた記事です。ChatGPTと速度感重視で理解することを意識しました。今回は、Google Deepmindの研究者が書いた「We Can’t Understand AI Using our Existing Vocabul]]></summary>
+        <content type="html"><![CDATA[はじめにヤマダと申します。情報科学と言語学を大学で学び、記号論、記号創発論、（記号と人間・テクノロジーの関係）について思考・探究している僕が、気になる論文について私見多めにまとめた記事です。ChatGPTと速度感重視で理解することを意識しました。今回は、Google Deepmindの研究者が書いた「We Can’t Understand AI Using our Existing Vocabulary」（私たちの既存の語彙ではAIを理解できない）についてです。論文リンク： https://arxiv.org/abs/2502.07586 簡潔な結論超簡単に言うと、...]]></content>
+        <author>
+            <name>ヤマダ</name>
+        </author>
+        <published>2025-02-18T11:50:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure上でDeepSeek-R1をデプロイして使ってみる | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/givery_ai_lab/articles/f35586b839f64f</id>
+        <link href="https://zenn.dev/givery_ai_lab/articles/f35586b839f64f"/>
+        <updated>2025-02-18T09:12:46.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに初めまして、Givery AI Lab所属のSharma Saurabh（ソウ）です。最近「DeepSeek」という名の新たなプレイヤーが世界のAI市場を席巻しているのを、皆さんもニュースやSNSなどで耳にしたのではないでしょうか。Apple App Storeの無料アプリランキングでChatGPTを抜き去り、現在最もダウンロードされているアプリとして話題をさらっています。特に驚きな]]></summary>
+        <content type="html"><![CDATA[1. はじめに初めまして、Givery AI Lab所属のSharma Saurabh（ソウ）です。最近「DeepSeek」という名の新たなプレイヤーが世界のAI市場を席巻しているのを、皆さんもニュースやSNSなどで耳にしたのではないでしょうか。Apple App Storeの無料アプリランキングでChatGPTを抜き去り、現在最もダウンロードされているアプリとして話題をさらっています。特に驚きなのは、中国発のスタートアップがわずか半年あまりで、この実績を成し遂げたという事実です。 そんなDeepSeekが打ち出したオープンソースモデル「DeepSeek-R1」は、“AIのスプー...]]></content>
+        <author>
+            <name>Saurabh Sharma (ソウ)</name>
+        </author>
+        <published>2025-02-18T09:12:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek: 革新的AIスタートアップが切り拓く未来 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/rinrin_ds_17/articles/10b9a41cda374b</id>
+        <link href="https://zenn.dev/rinrin_ds_17/articles/10b9a41cda374b"/>
+        <updated>2025-02-18T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、あるいはこんばんは。近年、人工知能（AI）の急速な発展の中で、従来の常識を覆す低コストかつ高性能な大規模言語モデル（LLM）の開発が進んでいます。今回は、中国・杭州を拠点に急成長中のスタートアップ「DeepSeek」に焦点を当て、その概要、技術的特徴、応用事例、競合との比較、最新動向について詳しくご紹介します。 1. 概要と基本情報DeepSeek（ディープシーク） は、2023年に設]]></summary>
+        <content type="html"><![CDATA[こんにちは、あるいはこんばんは。近年、人工知能（AI）の急速な発展の中で、従来の常識を覆す低コストかつ高性能な大規模言語モデル（LLM）の開発が進んでいます。今回は、中国・杭州を拠点に急成長中のスタートアップ「DeepSeek」に焦点を当て、その概要、技術的特徴、応用事例、競合との比較、最新動向について詳しくご紹介します。 1. 概要と基本情報DeepSeek（ディープシーク） は、2023年に設立された中国のAI研究開発スタートアップです。創業者である梁文鋒氏のもと、同社は高性能かつ低コストな大規模言語モデルの開発と、そのオープンソースによる提供を目指しています。•設立背景...]]></content>
+        <author>
+            <name>りんりん@DS</name>
+        </author>
+        <published>2025-02-18T09:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと読む「Inferring neural activity ~ beyond backpropagation」④ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/tanegoma/articles/219721ff4379dc</id>
+        <link href="https://zenn.dev/tanegoma/articles/219721ff4379dc"/>
+        <updated>2025-02-18T07:26:19.000Z</updated>
+        <summary type="html"><![CDATA[前回からの続きです。https://zenn.dev/tanegoma/articles/7a2aa92f627168 方法このセクションでは、本文で説明されている結果を再現するために必要な詳細を提供します。 モデル本研究全体を通して、確立されたバックプロパゲーションの理論と、提案された新しい見込み構成の原理を比較します。本文で説明したように、バックプロパゲーションはANNのトレーニングに使用され]]></summary>
+        <content type="html"><![CDATA[前回からの続きです。https://zenn.dev/tanegoma/articles/7a2aa92f627168 方法このセクションでは、本文で説明されている結果を再現するために必要な詳細を提供します。 モデル本研究全体を通して、確立されたバックプロパゲーションの理論と、提案された新しい見込み構成の原理を比較します。本文で説明したように、バックプロパゲーションはANNのトレーニングに使用されます。ここでは、ニューロンの活動はその入力に基づいて値に固定されます。一方、見込み構成はエネルギーベースネットワークで発生します。ここでは、ニューロンの活動は固定されていません。...]]></content>
+        <author>
+            <name>ごまたろう</name>
+        </author>
+        <published>2025-02-18T07:26:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4oより高性能うたう「Grok 3」マスク氏のxAIがリリース。ウェブ版とiOSアプリ版で提供 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/18/4121.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/18/4121.html"/>
+        <updated>2025-02-18T07:23:18.000Z</updated>
+        <summary type="html"><![CDATA[xAIが、同社の主力AIモデルの最新バージョン「Grok 3」をリリースしました。]]></summary>
+        <content type="html"><![CDATA[xAIが、同社の主力AIモデルの最新バージョン「Grok 3」をリリースしました。]]></content>
+        <published>2025-02-18T07:23:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと読む「Inferring neural activity ~ beyond backpropagation」③ | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/tanegoma/articles/7a2aa92f627168</id>
+        <link href="https://zenn.dev/tanegoma/articles/7a2aa92f627168"/>
+        <updated>2025-02-18T07:22:44.000Z</updated>
+        <summary type="html"><![CDATA[前回からの続きです。https://zenn.dev/tanegoma/articles/838f92bc32d795 考察本稿では、見込み構成の原理を特定しました。この原理によれば、学習は、ニューロンが最初に正しい出力に一致するように活動パターンを最適化し、次にシナプス可塑性を介してこれらの見込み活動を強化することに依存します。エネルギーベースネットワークでは、荷重更新の前にニューロンの活動がシ]]></summary>
+        <content type="html"><![CDATA[前回からの続きです。https://zenn.dev/tanegoma/articles/838f92bc32d795 考察本稿では、見込み構成の原理を特定しました。この原理によれば、学習は、ニューロンが最初に正しい出力に一致するように活動パターンを最適化し、次にシナプス可塑性を介してこれらの見込み活動を強化することに依存します。エネルギーベースネットワークでは、荷重更新の前にニューロンの活動がシフトすることが知られていましたが、このシフトは生物学的ネットワークにおけるエラー伝播に必要なコストであると考えられており、バックプロパゲーションをより厳密に近似するために、それを抑制す...]]></content>
+        <author>
+            <name>ごまたろう</name>
+        </author>
+        <published>2025-02-18T07:22:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[若手データサイエンティストが伝えたい「課題特定から取り組むデータ分析プロジェクトってどんな仕事？」 | Platinum Data Blog by BrainPad ブレインパッド]]></title>
+        <id>https://blog.brainpad.co.jp/entry/2025/02/18/160040</id>
+        <link href="https://blog.brainpad.co.jp/entry/2025/02/18/160040"/>
+        <updated>2025-02-18T07:00:40.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、当社がクライアント企業から受託し、データサイエンティストが関わるプロジェクトの一例を就活生の皆さんに具体的に理解してもらうことを目的として、ブレインパッドに新卒入社した若手データサイエンティストがインタビューを企画し、記事執筆したものです。 今回は新卒入社4年目で、現在はプロジェクトマネジャーとして活躍する天利さんに、データサイエンティストとしての業務内容をお話しいただきました。データサ]]></summary>
+        <content type="html"><![CDATA[本記事は、当社がクライアント企業から受託し、データサイエンティストが関わるプロジェクトの一例を就活生の皆さんに具体的に理解してもらうことを目的として、ブレインパッドに新卒入社した若手データサイエンティストがインタビューを企画し、記事執筆したものです。 今回は新卒入社4年目で、現在はプロジェクトマネジャーとして活躍する天利さんに、データサイエンティストとしての業務内容をお話しいただきました。データサイエンティストの業務では「分析」が注目されがちですが、今回は特に、課題特定の段階で何を考え、どのようにプロジェクトを進めていったのかについて詳細に解説します。データサイエンティストの業務の全体像は別の…]]></content>
+        <published>2025-02-18T07:00:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軽量スマートリングRingConn 2がクラファン開始、早割3万円台から。睡眠・運動・心拍等を常時記録で10日間超バッテリー、サブスク不要 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/18/4120.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/18/4120.html"/>
+        <updated>2025-02-18T05:50:03.000Z</updated>
+        <summary type="html"><![CDATA[睡眠や運動、心拍など各種バイタルデータを24時間計測するスマートリング、RingConn (第2世代モデル)が国内向けクラウドファンディングを開始しました。]]></summary>
+        <content type="html"><![CDATA[睡眠や運動、心拍など各種バイタルデータを24時間計測するスマートリング、RingConn (第2世代モデル)が国内向けクラウドファンディングを開始しました。]]></content>
+        <published>2025-02-18T05:50:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIグラビアをグラビアカメラマンが作るとどうなる？第42回：ちょっと変わった生成AI画像、Google WhiskとFlux Sigma Vision Alpha1（西川和久） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/18/4119.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/18/4119.html"/>
+        <updated>2025-02-18T05:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Google Whisk]]></summary>
+        <content type="html"><![CDATA[Google Whisk]]></content>
+        <published>2025-02-18T05:14:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと読む「Inferring neural activity ~ beyond backpropagation」② | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/tanegoma/articles/838f92bc32d795</id>
+        <link href="https://zenn.dev/tanegoma/articles/838f92bc32d795"/>
+        <updated>2025-02-18T03:23:28.000Z</updated>
+        <summary type="html"><![CDATA[前回からの続きです。https://zenn.dev/tanegoma/articles/9d6341f0a49af2 結果 展望的構成：直感的な例最適な行動を計画するためには、脳が将来の刺激を予測することが重要であり、例えば、他のモダリティに基づいてあるモダリティの感覚を予測することなどです[^22]。観察された結果が予測と異なる場合、ネットワーク全体の荷重を更新して、「出力」ニューロンの予測が]]></summary>
+        <content type="html"><![CDATA[前回からの続きです。https://zenn.dev/tanegoma/articles/9d6341f0a49af2 結果 展望的構成：直感的な例最適な行動を計画するためには、脳が将来の刺激を予測することが重要であり、例えば、他のモダリティに基づいてあるモダリティの感覚を予測することなどです[^22]。観察された結果が予測と異なる場合、ネットワーク全体の荷重を更新して、「出力」ニューロンの予測が修正されるようにする必要があります。バックプロパゲーションは、出力のエラーを最小限に抑えるために荷重をどのように変更すべきかを計算し、この荷重更新により、ネットワークが次に予測を行う...]]></content>
+        <author>
+            <name>ごまたろう</name>
+        </author>
+        <published>2025-02-18T03:23:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと読む「Inferring neural activity ~ beyond backpropagation」① | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/tanegoma/articles/9d6341f0a49af2</id>
+        <link href="https://zenn.dev/tanegoma/articles/9d6341f0a49af2"/>
+        <updated>2025-02-18T03:21:04.000Z</updated>
+        <summary type="html"><![CDATA[気になった英語の論文をAIで翻訳しながら読んでいきます。論文はこちらです。Inferring neural activity before plasticity as a foundation for learning beyond backpropagationhttps://www.nature.com/articles/s41593-023-01514-1こちらの論文では、これまでニューラル]]></summary>
+        <content type="html"><![CDATA[気になった英語の論文をAIで翻訳しながら読んでいきます。論文はこちらです。Inferring neural activity before plasticity as a foundation for learning beyond backpropagationhttps://www.nature.com/articles/s41593-023-01514-1こちらの論文では、これまでニューラルネットワークで使用されてきた誤差逆伝播法(back propagation)という手法は生物の自然な学習に比べると不自然な制約が多く課されている点を挙げ、より生物学的学習に近い手法として...]]></content>
+        <author>
+            <name>ごまたろう</name>
+        </author>
+        <published>2025-02-18T03:21:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ソフトウェアエンジニアインターン参戦記】クラウド型電子カルテのリクエスト数を13%削減した話 | エムスリーテックブログ]]></title>
+        <id>https://www.m3tech.blog/entry/2025/02/18/110000</id>
+        <link href="https://www.m3tech.blog/entry/2025/02/18/110000"/>
+        <updated>2025-02-18T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして！エムスリーのデジカルチームでソフトウェアエンジニアとしてインターンシップに参加した藤原です。 この記事ではインターン中に行なったタスク内容とエムスリーでのインターンシップの感想や学びをお伝えします！ エムスリーでの働き方などをお伝えして、インターンや就職を考えている他の学生の参考になることを願っています！ 自己紹介 私は普段は東京理科大学の修士1年でデジタル通信に関する研究を行なって]]></summary>
+        <content type="html"><![CDATA[はじめまして！エムスリーのデジカルチームでソフトウェアエンジニアとしてインターンシップに参加した藤原です。 この記事ではインターン中に行なったタスク内容とエムスリーでのインターンシップの感想や学びをお伝えします！ エムスリーでの働き方などをお伝えして、インターンや就職を考えている他の学生の参考になることを願っています！ 自己紹介 私は普段は東京理科大学の修士1年でデジタル通信に関する研究を行なっています。 UWB（Ultra Wide Band）という高精度な測距測位精度を誇る通信方式の研究をしています。この技術は位置測位システムなどに活用されています。具体的にはAirTagやiPhoneなど…]]></content>
+        <published>2025-02-18T02:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オープン社内報] 生成AI活用通信 #2 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/tsukulink/articles/a2ad041982d144</id>
+        <link href="https://zenn.dev/tsukulink/articles/a2ad041982d144"/>
+        <updated>2025-02-18T00:33:48.000Z</updated>
+        <summary type="html"><![CDATA[ごきげんよう🙋‍♀️あっきー(@kuronekopunk)です。生成AI活用推進委員会の活動レポートです。 サマリーCursorが利用可能になりました。Perplexityが利用可能になりました。GitHub Copilotで選べるモデルが増えました。Devinの準備を進めています。 活動報告 1. Cursorが利用可能になりましたAIコードエディタ「Cursor」が利用可能になりました。利用ガ]]></summary>
+        <content type="html"><![CDATA[ごきげんよう🙋‍♀️あっきー(@kuronekopunk)です。生成AI活用推進委員会の活動レポートです。 サマリーCursorが利用可能になりました。Perplexityが利用可能になりました。GitHub Copilotで選べるモデルが増えました。Devinの準備を進めています。 活動報告 1. Cursorが利用可能になりましたAIコードエディタ「Cursor」が利用可能になりました。利用ガイドラインを確認のうえ、利用してください。活用のTips共有は順次行っていきます。 2. Perplexityが利用可能になりましたAI検索エンジン「Per...]]></content>
+        <author>
+            <name>あっきー</name>
+        </author>
+        <published>2025-02-18T00:33:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Go × DDD】Goで値オブジェクトを実装しようとしたら意外と考えることが多かった | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=54440</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/54440/"/>
+        <updated>2025-02-17T23:00:28.000Z</updated>
+        <summary type="html"><![CDATA[目次 はじめに 対象読者 値オブジェクトパターンとは Goでドメインオブジェクトを実装する時の注意点 ...]]></summary>
+        <content type="html"><![CDATA[目次 はじめに 対象読者 値オブジェクトパターンとは Goでドメインオブジェクトを実装する時の注意点 ...]]></content>
+        <author>
+            <name>みねしん</name>
+        </author>
+        <category label="エンジニア"/>
+        <category label="Ameba"/>
+        <category label="DDD"/>
+        <category label="Golang"/>
+        <category label="バックエンド"/>
+        <category label="設計"/>
+        <published>2025-02-17T23:00:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クアラルンプールの街を三つ折りがジャック！ ファーウェイ「Mate XT Ultimate Design」いよいよ世界へ（スマホ沼） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/18/4118.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/18/4118.html"/>
+        <updated>2025-02-17T22:45:01.000Z</updated>
+        <summary type="html"><![CDATA[ファーウェイが初の三つ折りスマホ「Mate XT Ultimate Design」のグローバル発売がまもなくクアラルンプールで開催される。世界中の多くのメディアが注目している。]]></summary>
+        <content type="html"><![CDATA[ファーウェイが初の三つ折りスマホ「Mate XT Ultimate Design」のグローバル発売がまもなくクアラルンプールで開催される。世界中の多くのメディアが注目している。]]></content>
+        <published>2025-02-17T22:45:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIにおける評価スコア算出手法の一覧 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/headwaters/articles/eb08a11b88af24</id>
+        <link href="https://zenn.dev/headwaters/articles/eb08a11b88af24"/>
+        <updated>2025-02-17T16:22:58.000Z</updated>
+        <summary type="html"><![CDATA[生成タスクにおける評価は単に「正解ラベルと一致しているか」ではありません。正解も出力形式も多様であるため、評価指標もその他のタスク(分類・回帰など)に比べてたくさんあります。それぞれの手法にメリットデメリットが存在しますので、紹介します。 1. BLEUBilingual Evaluation Understudyの略。古くから使われているメジャーな指標であり、計算が軽量で実装も容易なためよく使用]]></summary>
+        <content type="html"><![CDATA[生成タスクにおける評価は単に「正解ラベルと一致しているか」ではありません。正解も出力形式も多様であるため、評価指標もその他のタスク(分類・回帰など)に比べてたくさんあります。それぞれの手法にメリットデメリットが存在しますので、紹介します。 1. BLEUBilingual Evaluation Understudyの略。古くから使われているメジャーな指標であり、計算が軽量で実装も容易なためよく使用される手法。方法は元々のテキストと生成したテキスト間のn-gram（1単語ずつ、2単語ずつ...）の一致率に基づいてスコアを算出します。特にPrecision(適合率) に焦点を...]]></content>
+        <author>
+            <name>ikebowsan</name>
+        </author>
+        <published>2025-02-17T16:22:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-head Latent Attention (MLA)の詳細【be absorbedとは？】 | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/asap/articles/be3d4b60d8ac92</id>
+        <link href="https://zenn.dev/asap/articles/be3d4b60d8ac92"/>
+        <updated>2025-02-17T13:35:25.000Z</updated>
+        <summary type="html"><![CDATA[目的DeepSeek V2論文のMulti-head Latent Attention (MLA)における、下記表現を理解するために「数式で」整理をすることが目的の記事です。主に、「どの重みを」「どのように吸収するのか」を「数式で」整理します。（そのうち詳細な解説付きの記事にするかも）In addition, during inference, since W^{UK} can be absorb]]></summary>
+        <content type="html"><![CDATA[目的DeepSeek V2論文のMulti-head Latent Attention (MLA)における、下記表現を理解するために「数式で」整理をすることが目的の記事です。主に、「どの重みを」「どのように吸収するのか」を「数式で」整理します。（そのうち詳細な解説付きの記事にするかも）In addition, during inference, since W^{UK} can be absorbed into W^Q, and W^{UV} can be absorbed into W^{O}, we even do not need to compute keys an...]]></content>
+        <author>
+            <name>asap</name>
+        </author>
+        <published>2025-02-17T13:35:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベイズでLOOCV (Leave-One-Out Cross-Validation) | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/mtmaru/articles/4af857aff42278</id>
+        <link href="https://zenn.dev/mtmaru/articles/4af857aff42278"/>
+        <updated>2025-02-17T11:26:29.000Z</updated>
+        <summary type="html"><![CDATA[PyMCの使い方を調べていたらArviZにlooというAPIがあるのを見つけました。どうやらleave-one-out cross-validation (LOOCV) を使ってELPDを推定してくれるみたいです。LOOCVといえばデータセットの分割数をデータ数と同じまで細分化した究極のクロスバリデーションで、計算量の多さから机上の空論だとずっと思っていました。本当に動くのでしょうか……？そこでド]]></summary>
+        <content type="html"><![CDATA[PyMCの使い方を調べていたらArviZにlooというAPIがあるのを見つけました。どうやらleave-one-out cross-validation (LOOCV) を使ってELPDを推定してくれるみたいです。LOOCVといえばデータセットの分割数をデータ数と同じまで細分化した究極のクロスバリデーションで、計算量の多さから机上の空論だとずっと思っていました。本当に動くのでしょうか……？そこでドキュメントで引用されている論文をたどりlooがどのようにLOOCVを計算するのか調べてみたところ、そもそもベイズモデルは1回学習させるだけでクロスバリデーションを行えることがわかりました。言わ...]]></content>
+        <author>
+            <name>mtmaru</name>
+        </author>
+        <published>2025-02-17T11:26:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flow Q-Learning | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/akiyamas/articles/be40db3664b4a3</id>
+        <link href="https://zenn.dev/akiyamas/articles/be40db3664b4a3"/>
+        <updated>2025-02-17T09:32:21.000Z</updated>
+        <summary type="html"><![CDATA[本記事では、Flow Q-Learning の概要とその技術的特徴、そして実験結果について解説します。元論文Flow Q-Learning公式のサイトhttps://seohong.me/projects/fql/公式のgithubhttps://github.com/seohongpark/fql 概要Flow Q-Learning (FQL) は、Flow Policy を蒸留して One s]]></summary>
+        <content type="html"><![CDATA[本記事では、Flow Q-Learning の概要とその技術的特徴、そして実験結果について解説します。元論文Flow Q-Learning公式のサイトhttps://seohong.me/projects/fql/公式のgithubhttps://github.com/seohongpark/fql 概要Flow Q-Learning (FQL) は、Flow Policy を蒸留して One step Policy を作ることで、複数ステップのノイズ除去を回避し高速な推論を実現しています。また、蒸留モデルを用いた Q 学習で安定性を向上させ、D4RL や OGBenc...]]></content>
+        <author>
+            <name>AkiyamaS</name>
+        </author>
+        <published>2025-02-17T09:32:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[au INFOBARが体重計に転生。乗るだけスマートバスマット体組成計にデザインケータイ コラボモデル、マット単品も用意 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/17/4117.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/17/4117.html"/>
+        <updated>2025-02-17T09:09:47.000Z</updated>
+        <summary type="html"><![CDATA[2003年発売の au デザインケータイ『INFOBAR』が、なぜかスマート体組成計に生まれ変わりました。]]></summary>
+        <content type="html"><![CDATA[2003年発売の au デザインケータイ『INFOBAR』が、なぜかスマート体組成計に生まれ変わりました。]]></content>
+        <published>2025-02-17T09:09:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropicが発表した経済指標Anthropic Economic Indexについて | Zennの「生成 AI」のフィード]]></title>
+        <id>https://zenn.dev/shirochan/articles/c177ee5b436ac1</id>
+        <link href="https://zenn.dev/shirochan/articles/c177ee5b436ac1"/>
+        <updated>2025-02-17T07:58:53.000Z</updated>
+        <summary type="html"><![CDATA[はじめにAnthropicは2025年2月10日、AI技術が労働市場に与える影響を追跡・分析する新しい取り組み「Anthropic Economic Index」を発表しました。この指標は、Claude.aiプラットフォームで行われた数百万件の会話データを匿名化して分析し、現代の経済においてAIがどのように実務に組み込まれているかを明らかにしています。本記事ではその発表内容を簡単にまとめて紹介しま]]></summary>
+        <content type="html"><![CDATA[はじめにAnthropicは2025年2月10日、AI技術が労働市場に与える影響を追跡・分析する新しい取り組み「Anthropic Economic Index」を発表しました。この指標は、Claude.aiプラットフォームで行われた数百万件の会話データを匿名化して分析し、現代の経済においてAIがどのように実務に組み込まれているかを明らかにしています。本記事ではその発表内容を簡単にまとめて紹介します。https://www.anthropic.com/news/the-anthropic-economic-index 主要な調査結果 1. AIの利用状況ソフトウェ...]]></content>
+        <author>
+            <name>shirochan</name>
+        </author>
+        <published>2025-02-17T07:58:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[格安SIMフリースマホ Blackview Wave 8C が36％オフセールで約1万円。画面占有率89％の6.5インチ、Android 14 Go搭載 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/17/4116.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/17/4116.html"/>
+        <updated>2025-02-17T04:29:57.000Z</updated>
+        <summary type="html"><![CDATA[高コスパなスマホやタブレットで知られるBlackviewが、Amazonで格安スマホ Blackview Wave8C が約1万円で買える大幅値引きセールを開始しました。]]></summary>
+        <content type="html"><![CDATA[高コスパなスマホやタブレットで知られるBlackviewが、Amazonで格安スマホ Blackview Wave8C が約1万円で買える大幅値引きセールを開始しました。]]></content>
+        <published>2025-02-17T04:29:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIグラビアの作り方教えます。グラビアカメラマンが教える、生成AIグラビア実践Stable Diffusionワークショップ（第3期第4回）を2月19日開催。テクノエッジ アルファ会員なら無料 | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/17/4115.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/17/4115.html"/>
+        <updated>2025-02-17T03:43:53.000Z</updated>
+        <summary type="html"><![CDATA[人気連載「生成AIグラビアをグラビアカメラマンが作るとどうなる？」の著者である西川和久さんを講師に迎えた、生成AIグラビアワークショップの第3期第4回を2月19日に開催いたします。]]></summary>
+        <content type="html"><![CDATA[人気連載「生成AIグラビアをグラビアカメラマンが作るとどうなる？」の著者である西川和久さんを講師に迎えた、生成AIグラビアワークショップの第3期第4回を2月19日に開催いたします。]]></content>
+        <published>2025-02-17T03:43:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GASでSlackをもっと便利に！開発合宿で作った2つのBot | 松尾研究所テックブログのフィード]]></title>
+        <id>https://zenn.dev/mkj/articles/dd91f3c1821ac8</id>
+        <link href="https://zenn.dev/mkj/articles/dd91f3c1821ac8"/>
+        <updated>2025-02-17T02:50:05.000Z</updated>
+        <summary type="html"><![CDATA[GASでSlackを便利にしよう！松尾研究所のデータサイエンスチーム第1回開発合宿の成果物について紹介します。開発合宿については、以下記事参照ください。https://zenn.dev/mkj/articles/ad49eb09403bd9合宿では、各個人が作るものを決めて開発して、その日に作ったものを発表するという流れになっています。私は「あると嬉しいけどなかなか開発する時間がとれないちょっとし]]></summary>
+        <content type="html"><![CDATA[GASでSlackを便利にしよう！松尾研究所のデータサイエンスチーム第1回開発合宿の成果物について紹介します。開発合宿については、以下記事参照ください。https://zenn.dev/mkj/articles/ad49eb09403bd9合宿では、各個人が作るものを決めて開発して、その日に作ったものを発表するという流れになっています。私は「あると嬉しいけどなかなか開発する時間がとれないちょっとした便利Slack bot」を作ることにしました。Slack botといっても色々なものがあります。例えばLLMを使った高度なbotを作りたい場合は、PythonとBolt（Slack...]]></content>
+        <author>
+            <name>からあげ</name>
+        </author>
+        <published>2025-02-17T02:50:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLI/SLO 完全ガイド | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/?p=54464</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/54464/"/>
+        <updated>2025-02-17T01:32:46.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、SRE としてチームへ参加した時に SLI/SLO をチーム内で浸透を行うまでのステップを ...]]></summary>
+        <content type="html"><![CDATA[本記事は、SRE としてチームへ参加した時に SLI/SLO をチーム内で浸透を行うまでのステップを ...]]></content>
+        <author>
+            <name>技術 / クリエイティブ広報</name>
+        </author>
+        <category label="エンジニア"/>
+        <published>2025-02-17T01:32:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全ての学習率スケジューリングを過去にするRAdamScheduleFreeはGNNsでも健在 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/zenkigen_tech/articles/8356bed81aec91</id>
+        <link href="https://zenn.dev/zenkigen_tech/articles/8356bed81aec91"/>
+        <updated>2025-02-17T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。ZENKIGENデータサイエンスチーム所属のredteaです。原籍はオムロンソーシアルソリューションズ株式会社 技術創造センタですが、社外出向でZENKIGENに所属しており、数理最適化や機械学習を用いたデータの分析業務、それらの結果に基づいた顧客への提案をしております[1]。所属チームでXを運用しており、AIに関する情報を発信していますのでご興味あれば覗いてみてください。 本]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。ZENKIGENデータサイエンスチーム所属のredteaです。原籍はオムロンソーシアルソリューションズ株式会社 技術創造センタですが、社外出向でZENKIGENに所属しており、数理最適化や機械学習を用いたデータの分析業務、それらの結果に基づいた顧客への提案をしております[1]。所属チームでXを運用しており、AIに関する情報を発信していますのでご興味あれば覗いてみてください。 本記事の取り組み先日（2024年末）とても便利そうな optimizer RAdamScheduleFree が公開されました。この optimizer は名前の通り、warmup を...]]></content>
+        <author>
+            <name>redtea</name>
+        </author>
+        <published>2025-02-17T01:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全ての学習率スケジューリングを過去にするRAdamScheduleFreeはGNNsでも健在 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/zenkigen_tech/articles/8356bed81aec91</id>
+        <link href="https://zenn.dev/zenkigen_tech/articles/8356bed81aec91"/>
+        <updated>2025-02-17T01:30:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめにこんにちは。ZENKIGENデータサイエンスチーム所属のredteaです。原籍はオムロンソーシアルソリューションズ株式会社 技術創造センタですが、社外出向でZENKIGENに所属しており、数理最適化や機械学習を用いたデータの分析業務、それらの結果に基づいた顧客への提案をしております[1]。所属チームでXを運用しており、AIに関する情報を発信していますのでご興味あれば覗いてみてください。 本]]></summary>
+        <content type="html"><![CDATA[はじめにこんにちは。ZENKIGENデータサイエンスチーム所属のredteaです。原籍はオムロンソーシアルソリューションズ株式会社 技術創造センタですが、社外出向でZENKIGENに所属しており、数理最適化や機械学習を用いたデータの分析業務、それらの結果に基づいた顧客への提案をしております[1]。所属チームでXを運用しており、AIに関する情報を発信していますのでご興味あれば覗いてみてください。 本記事の取り組み先日（2024年末）とても便利そうな optimizer RAdamScheduleFree が公開されました。この optimizer は名前の通り、warmup を...]]></content>
+        <author>
+            <name>redtea</name>
+        </author>
+        <published>2025-02-17T01:30:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpanAI「o3」が国際情報オリンピックで金メダル達成（18位相当）。競技プログラミングにおいて人間のトップ選手と同等レベル（生成AIクローズアップ） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/17/4114.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/17/4114.html"/>
+        <updated>2025-02-17T00:51:11.000Z</updated>
+        <summary type="html"><![CDATA[コーディングで良好な成果を示しているOpenAIの「o3」が国際情報オリンピック（IOI）で金メダルを達成した研究報告「Competitive Programming with Large Reasoning Models」に注目します。]]></summary>
+        <content type="html"><![CDATA[コーディングで良好な成果を示しているOpenAIの「o3」が国際情報オリンピック（IOI）で金メダルを達成した研究報告「Competitive Programming with Large Reasoning Models」に注目します。]]></content>
+        <published>2025-02-17T00:51:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpannerのManaged autoscalerを解説 | G-gen Tech Blog]]></title>
+        <id>https://blog.g-gen.co.jp/entry/spanner-managed-autoscaler-explained</id>
+        <link href="https://blog.g-gen.co.jp/entry/spanner-managed-autoscaler-explained"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[G-gen の佐々木です。当記事では Spanner の組み込みのオートスケーリング機能である Managed autoscaler を紹介します。 前提知識 Spanner とは インスタンス、ノード、処理ユニット オープンソースのオートスケーリングツール Managed autoscaler とは スケーリングのトリガー リードレプリカのオートスケーリング 費用 制限事項 オートスケーリングの]]></summary>
+        <content type="html"><![CDATA[G-gen の佐々木です。当記事では Spanner の組み込みのオートスケーリング機能である Managed autoscaler を紹介します。 前提知識 Spanner とは インスタンス、ノード、処理ユニット オープンソースのオートスケーリングツール Managed autoscaler とは スケーリングのトリガー リードレプリカのオートスケーリング 費用 制限事項 オートスケーリングの設定方法 検証 サンプルコード（Go） 環境変数の設定 Spanner インスタンスの作成 データの準備 データベースとテーブルの作成 データの挿入 挿入したデータの確認 Managed autosc…]]></content>
+        <published>2025-02-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Ads API と Google 広告スクリプトの検索キーワード インサイト レポートのアップデートを 2025 年 3 月 3 日より開始 | Google Developers Japan]]></title>
+        <id>https://developers-jp.googleblog.com/2025/02/google-ads-api-scripts.html</id>
+        <link href="https://developers-jp.googleblog.com/2025/02/google-ads-api-scripts.html"/>
+        <updated>2025-02-16T11:14:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事は Nadine Wang による Google Ads Developer Blog の記事 "Google Ads API and Google Ads scripts search term insight report update starting March 3, 2025" を元に翻訳・加筆したものです。詳しくは元記事をご覧ください。2025 年 3 月 3 日より、Goog]]></summary>
+        <content type="html"><![CDATA[この記事は Nadine Wang による Google Ads Developer Blog の記事 "Google Ads API and Google Ads scripts search term insight report update starting March 3, 2025" を元に翻訳・加筆したものです。詳しくは元記事をご覧ください。2025 年 3 月 3 日より、Google Ads API と Google 広告スクリプトの検索キーワード インサイト レポートで、返される検索サブカテゴリがすべて空になります。Google 広告 UI では、すでにこのフィールドが削除されています。Google 広告全体で一貫性を維持するため、API にもこの変更をロールアウトします。何をする必要がありますか？2025 年 3 月 3 日より、segments.search_subcategory のすべての値が空になります。campaign_search_term_insight または customer_search_term_insight レポートで、クエリに segm]]></content>
+        <published>2025-02-16T11:14:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習のｷをまとめる①最初の一歩🐈 | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/airiswim/articles/60a6a7638a5ca6</id>
+        <link href="https://zenn.dev/airiswim/articles/60a6a7638a5ca6"/>
+        <updated>2025-02-16T01:44:03.000Z</updated>
+        <summary type="html"><![CDATA[機械学習と深層学習を学び始めた最初の一歩ということで題名の通り書いていきたいと思う。この記事書くきっかけとしては、自分がAIについて勉強しようとした時に何から学び始めればいいのかわからなかったんだ!!!!!!そもそも機械学習と深層学習とか何が違うん？とか、transferってなんやねん？とか論文読んでも...何言ってるかわからん。の状態だった。わたしみたいな初心者の初心者でもわかりやすいように、自]]></summary>
+        <content type="html"><![CDATA[機械学習と深層学習を学び始めた最初の一歩ということで題名の通り書いていきたいと思う。この記事書くきっかけとしては、自分がAIについて勉強しようとした時に何から学び始めればいいのかわからなかったんだ!!!!!!そもそも機械学習と深層学習とか何が違うん？とか、transferってなんやねん？とか論文読んでも...何言ってるかわからん。の状態だった。わたしみたいな初心者の初心者でもわかりやすいように、自分のアウトプットも兼ねて概要からわかりやすく書いていきたいと思います。(もし間違えてる！と思うことがあれば教えてください) 📍1.[概要]機械学習とは？機械学習(ML...]]></content>
+        <author>
+            <name>Airichan</name>
+        </author>
+        <published>2025-02-16T01:44:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習のｷをまとめる①最初の一歩🐈 | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/airiswim/articles/60a6a7638a5ca6</id>
+        <link href="https://zenn.dev/airiswim/articles/60a6a7638a5ca6"/>
+        <updated>2025-02-16T01:44:03.000Z</updated>
+        <summary type="html"><![CDATA[機械学習と深層学習を学び始めた最初の一歩ということで題名の通り書いていきたいと思う。この記事書くきっかけとしては、自分がAIについて勉強しようとした時に何から学び始めればいいのかわからなかったんだ!!!!!!そもそも機械学習と深層学習とか何が違うん？とか、transferってなんやねん？とか論文読んでも...何言ってるかわからん。の状態だった。わたしみたいな初心者の初心者でもわかりやすいように、自]]></summary>
+        <content type="html"><![CDATA[機械学習と深層学習を学び始めた最初の一歩ということで題名の通り書いていきたいと思う。この記事書くきっかけとしては、自分がAIについて勉強しようとした時に何から学び始めればいいのかわからなかったんだ!!!!!!そもそも機械学習と深層学習とか何が違うん？とか、transferってなんやねん？とか論文読んでも...何言ってるかわからん。の状態だった。わたしみたいな初心者の初心者でもわかりやすいように、自分のアウトプットも兼ねて概要からわかりやすく書いていきたいと思います。(もし間違えてる！と思うことがあれば教えてください) 📍1.[概要]機械学習とは？機械学習(ML...]]></content>
+        <author>
+            <name>Airichan</name>
+        </author>
+        <published>2025-02-16T01:44:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Awesome】2025年 デジタル病理学のための深層学習手法まとめ | Zennの「ディープラーニング」のフィード]]></title>
+        <id>https://zenn.dev/doctorin/articles/8571c9216589e4</id>
+        <link href="https://zenn.dev/doctorin/articles/8571c9216589e4"/>
+        <updated>2025-02-15T17:57:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに空間オミクスやデジタル病理学の分野では、最新のベンチマーク、ワークフロー、基盤モデル、CLIP技術、さらにはオプショナルツールが次々と登場しています。本記事は、筆者がこれまで見てきたデジタル病理画像解析に関するプロジェクトの中でもとくに競争力が高い、または画期的だと思った研究に絞ってまとめました。各リンクから詳細な情報にアクセスできるので、ぜひ参考にしてください。 Benchmarks /]]></summary>
+        <content type="html"><![CDATA[はじめに空間オミクスやデジタル病理学の分野では、最新のベンチマーク、ワークフロー、基盤モデル、CLIP技術、さらにはオプショナルツールが次々と登場しています。本記事は、筆者がこれまで見てきたデジタル病理画像解析に関するプロジェクトの中でもとくに競争力が高い、または画期的だと思った研究に絞ってまとめました。各リンクから詳細な情報にアクセスできるので、ぜひ参考にしてください。 Benchmarks / Datasetsfor foundation models→ NeurIPS Spotlight 2024for non-foundation models→...]]></content>
+        <author>
+            <name>どくとりん</name>
+        </author>
+        <published>2025-02-15T17:57:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy新モデル発売当日の韓国の様子をこの目で確認する恒例行事レポート（スマホ沼） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/15/4113.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/15/4113.html"/>
+        <updated>2025-02-15T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy S25シリーズが韓国で発売され、予約が前モデルを上回る盛況ぶり。展示機は混雑のため見られず、地元ケースを探すも収穫なし。次回の訪問を計画中。]]></summary>
+        <content type="html"><![CDATA[Galaxy S25シリーズが韓国で発売され、予約が前モデルを上回る盛況ぶり。展示機は混雑のため見られず、地元ケースを探すも収穫なし。次回の訪問を計画中。]]></content>
+        <published>2025-02-15T01:00:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PerplexityがDeep Research提供開始。無料ユーザーでも1日5回、Proなら500回利用可能に。実際に試してみた（CloseBox） | テクノエッジ TechnoEdge]]></title>
+        <id>https://www.techno-edge.net/article/2025/02/15/4112.html</id>
+        <link href="https://www.techno-edge.net/article/2025/02/15/4112.html"/>
+        <updated>2025-02-15T00:49:53.000Z</updated>
+        <summary type="html"><![CDATA[統合型チャットAIサービスであるPerplexityが新サービスをリリースしました。「Deep Research」オプションの追加です。]]></summary>
+        <content type="html"><![CDATA[統合型チャットAIサービスであるPerplexityが新サービスをリリースしました。「Deep Research」オプションの追加です。]]></content>
+        <published>2025-02-15T00:49:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[juliaのLuxでBayesian Neural ODEしてみる | Zennの「機械学習」のフィード]]></title>
+        <id>https://zenn.dev/yyyyyy/articles/5bc08d481d7970</id>
+        <link href="https://zenn.dev/yyyyyy/articles/5bc08d481d7970"/>
+        <updated>2025-02-14T18:31:33.000Z</updated>
+        <summary type="html"><![CDATA[summaryjuliaで実装のBayesian Neural Ordinary Differential EquationsをLuxで再現するブログです．全体コードは，機械学習訓練と，モンテカルロ法でサンプリングの二つの部分に分かれていますその中で，機械学習訓練の部分のみ，Luxに変更しています．（サンプリングの方は，あまり変更なく，実行可能だったと思います．） 環境設定julia 1.11.1]]></summary>
+        <content type="html"><![CDATA[summaryjuliaで実装のBayesian Neural Ordinary Differential EquationsをLuxで再現するブログです．全体コードは，機械学習訓練と，モンテカルロ法でサンプリングの二つの部分に分かれていますその中で，機械学習訓練の部分のみ，Luxに変更しています．（サンプリングの方は，あまり変更なく，実行可能だったと思います．） 環境設定julia 1.11.1その他パッケージは適宜入れています．Fulxはなくても可能と認識していますが，NeuralODEのためのDiffEqFluxは必要です． 目的juliaを勉強するのに...]]></content>
+        <author>
+            <name>yyyyyy</name>
+        </author>
+        <published>2025-02-14T18:31:33.000Z</published>
+    </entry>
+</feed>
