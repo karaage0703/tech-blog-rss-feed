@@ -62,4 +62,5 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['サイバーエージェント', 'https://developers.cyberagent.co.jp/blog/feed/'],
   ['フューチャー', 'https://future-architect.github.io/atom.xml'],
   ['松尾研究所', 'https://zenn.dev/p/mkj/feed'],
+  ['npaka', 'https://note.com/npaka/rss'],
 ]);
