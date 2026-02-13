@@ -63,4 +63,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['フューチャー', 'https://future-architect.github.io/atom.xml'],
   ['松尾研究所', 'https://zenn.dev/p/mkj/feed'],
   ['npaka', 'https://note.com/npaka/rss'],
+  ['EpicAI', 'https://zenn.dev/p/epicai_techblog/feed'],
+  ['HIBARI', 'https://zenn.dev/p/hibari_inc/feed'],
 ]);
