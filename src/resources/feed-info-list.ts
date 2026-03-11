@@ -66,4 +66,5 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['EpicAI', 'https://zenn.dev/p/epicai_techblog/feed'],
   ['HIBARI', 'https://zenn.dev/p/hibari_inc/feed'],
   ['Fixstars', 'https://zenn.dev/p/fixstars/feed'],
+  ['ヘンリー', 'https://dev.henry.jp/rss'],
 ]);
