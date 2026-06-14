@@ -6,8 +6,7 @@ export default {
   siteUrl: `${siteUrl}`,
   siteUrlStem: siteUrlStem,
   siteTitle: 'AI情報RSS',
-  siteDescription:
-    'AI情報の更新をまとめたRSSフィードを配信しています。',
+  siteDescription: 'AI情報の更新をまとめたRSSフィードを配信しています。',
 
   // フィード設定
   feedTitle: 'AI情報RSS',

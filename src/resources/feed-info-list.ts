@@ -55,7 +55,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Zenn（生成AIタグ）', 'https://zenn.dev/topics/生成ai/feed'],
   ['Zenn（DLタグ）', 'https://zenn.dev/topics/deeplearning/feed'],
   ['Zenn（LLMタグ）', 'https://zenn.dev/topics/llm/feed'],
-  ['テクノエッジ', 'https://www.techno-edge.net/rss20/index.rdf'],  
+  ['テクノエッジ', 'https://www.techno-edge.net/rss20/index.rdf'],
   ['エクサウィザーズ', 'https://techblog.exawizards.com/feed'],
   ['エクスプラザ', 'https://tech.explaza.jp/feed'],
   ['エムスリー', 'https://www.m3tech.blog/feed'],

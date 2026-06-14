@@ -26,3 +26,5 @@ jobs:
       - uses: ./.github/actions/restore-feed-cache
       - run: npm run test-external
       - uses: ./.github/actions/save-feed-cache
+        with:
+          save: 'false'
